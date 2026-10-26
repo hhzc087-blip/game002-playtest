@@ -1,8 +1,9 @@
-// Original implementation of public sorting rules. No unlicensed upstream code/assets.
+// Original seed generation/inversion/solver around MIT-ported pure sorting rules.
 import {rng}from './blocks.mjs';
+import{canPourBetween,applyPour,allSorted}from'./sort-core.mjs';
 const key=t=>t.map(a=>a.join('')).join('|');
-export function isSorted(tubes,caps){return tubes.every((t,i)=>!t.length||(t.length===caps[i]&&t.every(c=>c===t[0])))}
-function moved(tubes,caps,a,b){if(a===b||!tubes[a]?.length||!tubes[b]||tubes[b].length>=caps[b])return null;const color=tubes[a].at(-1);if(tubes[b].length&&tubes[b].at(-1)!==color)return null;let run=0;for(let j=tubes[a].length-1;j>=0&&tubes[a][j]===color;j--)run++;const n=Math.min(run,caps[b]-tubes[b].length),next=tubes.map(t=>t.slice());next[b].push(...next[a].splice(-n));return next}
+export const isSorted=allSorted;
+function moved(tubes,caps,a,b){if(!canPourBetween(tubes,caps,a,b))return null;const next=tubes.map(t=>t.slice());applyPour(next,caps,a,b);return next}
 export function newSort(seed=1,variant=true){const random=rng(seed),caps=[4,4,4,4,4,4];let tubes=[[0,0,0,0],[1,1,1,1],[2,2,2,2],[3,3,3,3],[],[]],witness=[],seen=new Set([key(tubes)]);
  for(let step=0;step<30;step++){
   const choices=[];for(let a=0;a<6;a++)if(tubes[a].length)for(let b=0;b<6;b++)if(a!==b)for(let n=1;n<=tubes[a].length&&n<=caps[b]-tubes[b].length;n++){
