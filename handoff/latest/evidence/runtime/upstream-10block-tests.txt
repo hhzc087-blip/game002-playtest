@@ -1,0 +1,70 @@
+
+> blockly@0.0.0 test:run
+> vitest run
+
+
+ RUN  v2.1.9 /Users/huangzecong/Documents/ChatGPT/TAPTAP游戏/GAME_002/vendor/10block
+
+(node:41712) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41707) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41708) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41711) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41713) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41710) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41709) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/layout.test.ts (20 tests) 4ms
+ ✓ tests/engine.test.ts (58 tests) 13ms
+ ✓ tests/audio.test.ts (16 tests) 18ms
+ ✓ tests/pieces.test.ts (74 tests) 11ms
+ ✓ tests/board.test.ts (33 tests) 65ms
+(node:41722) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/storage.test.ts (17 tests) 7ms
+ ✓ tests/game.test.ts (46 tests) 526ms
+(node:41723) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41721) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41724) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/drag.test.ts (34 tests) 602ms
+ ✓ tests/sample-piece.test.ts (11 tests) 25ms
+ ✓ tests/viewport.test.ts (6 tests) 36ms
+ ✓ tests/hud.test.ts (12 tests) 15ms
+(node:41726) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/tray.test.ts (8 tests) 51ms
+(node:41731) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41732) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/tokens.test.ts (6 tests) 4ms
+(node:41736) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/start-gate.test.ts (6 tests) 26ms
+(node:41737) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:41734) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/pwa.test.ts (14 tests) 3ms
+(node:41738) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/version.test.ts (5 tests) 7ms
+ ✓ tests/overlay.test.ts (6 tests) 12ms
+(node:41743) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ ✓ tests/combo.test.ts (4 tests) 2ms
+ ✓ tests/page-mount.test.ts (3 tests) 125ms
+
+ Test Files  19 passed (19)
+      Tests  379 passed (379)
+   Start at  13:27:38
+   Duration  2.06s (transform 480ms, setup 209ms, collect 957ms, tests 1.55s, environment 6.83s, prepare 1.24s)
+

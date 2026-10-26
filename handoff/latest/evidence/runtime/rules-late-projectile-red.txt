@@ -1,0 +1,47 @@
+
+> game002-market-first@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ a crossing row and column clear simultaneously, burst is a real rules difference (1.798583ms)
+✔ invalid placement never consumes a piece or changes score (3.081875ms)
+✔ same seed has the same offers, and ten rounds can reach actual terminal states (13.940208ms)
+✔ sort rejects different top colors and full targets without mutation (0.16625ms)
+✔ generated sorting puzzles have a valid executable witness across 200 seeds per mode (231.710583ms)
+✔ single inversion changes buried color access and cannot be reused (0.571458ms)
+✔ tower uses real physical hits and ten layouts can end by legal shots (49.079875ms)
+✔ protecting the core is an actual loss condition (0.253917ms)
+✔ every new deal has a full constructive placement order, across 100 seeds (19.697917ms)
+✔ reverse-generated witnesses themselves execute, independently of solver (79.207042ms)
+✔ undo restores a used inversion and no color mass is created (0.539209ms)
+✖ clearing targets cannot declare victory while a projectile may still hit the core (0.875042ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 11
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 472.122791
+
+✖ failing tests:
+
+test at tests/rules.test.mjs:27:1
+✖ clearing targets cannot declare victory while a projectile may still hit the core (0.875042ms)
+  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
+  
+  'won' !== 'playing'
+  
+      at TestContext.<anonymous> (file:///Users/huangzecong/Documents/ChatGPT/TAPTAP%E6%B8%B8%E6%88%8F/GAME_002/tests/rules.test.mjs:27:206)
+      at Test.runInAsyncScope (node:async_hooks:226:14)
+      at Test.run (node:internal/test_runner/test:1382:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+      at Test.postRun (node:internal/test_runner/test:1522:19)
+      at Test.run (node:internal/test_runner/test:1447:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:960:7) {
+    generatedMessage: true,
+    code: 'ERR_ASSERTION',
+    actual: 'won',
+    expected: 'playing',
+    operator: 'strictEqual',
+    diff: 'simple'
+  }

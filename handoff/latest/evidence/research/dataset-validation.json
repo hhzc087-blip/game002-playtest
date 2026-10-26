@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "game_count": 59,
+  "unique_count": 59,
+  "required_fields_per_game": 16,
+  "markets": {
+    "微信 / 中国": 10,
+    "抖音 / 中国": 7,
+    "Google Play / 美国": 18,
+    "App Store / 美国iPhone": 4,
+    "TapTap / 中国": 6,
+    "Poki / 英文全球网页": 9,
+    "CrazyGames / 网页": 3,
+    "itch.io / 全球网页": 2
+  },
+  "deep_analysis_groups": 18,
+  "directions": 10,
+  "selected_prototypes": 3,
+  "note": "Schema and source-field coverage only; source truth and Human attraction are not automatically proven."
+}

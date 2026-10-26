@@ -1,0 +1,988 @@
+{
+  "parameter_period": 70,
+  "cases": 140,
+  "failed": [],
+  "rows": [
+    {
+      "seed": 1,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 2,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 3,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 4,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 5,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 6,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 7,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 8,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 9,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 10,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 11,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 12,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 13,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 14,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 15,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 16,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 17,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 18,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 19,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 20,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 21,
+      "variant": false,
+      "status": "won",
+      "shots": 2,
+      "hits": 8
+    },
+    {
+      "seed": 22,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 23,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 24,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 25,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 26,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 27,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 28,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 29,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 30,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 31,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 32,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 33,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 34,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 35,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 7
+    },
+    {
+      "seed": 36,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 37,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 38,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 39,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 40,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 41,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 42,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 43,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 44,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 45,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 46,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 47,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 48,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 49,
+      "variant": false,
+      "status": "won",
+      "shots": 2,
+      "hits": 8
+    },
+    {
+      "seed": 50,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 51,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 52,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 53,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 54,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 55,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 56,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 57,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 58,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 59,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 60,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 61,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 62,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 63,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 64,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 65,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 66,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 67,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 68,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 69,
+      "variant": false,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 70,
+      "variant": false,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 1,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 2,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 3,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 4,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 5,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 6,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 7,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 8,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 9,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 10,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 11,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 12,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 13,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 14,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 15,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 16,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 17,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 18,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 19,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 20,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 21,
+      "variant": true,
+      "status": "won",
+      "shots": 2,
+      "hits": 8
+    },
+    {
+      "seed": 22,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 23,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 24,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 25,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 26,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 27,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 28,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 29,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 30,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 31,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 32,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 33,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 34,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 35,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 7
+    },
+    {
+      "seed": 36,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 37,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 38,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 39,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 40,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 41,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 42,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 43,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 44,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 45,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 46,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 47,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 48,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 49,
+      "variant": true,
+      "status": "won",
+      "shots": 2,
+      "hits": 8
+    },
+    {
+      "seed": 50,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 51,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 52,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 53,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 54,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 55,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 56,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 57,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 8
+    },
+    {
+      "seed": 58,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 59,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 60,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 61,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 62,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 63,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 64,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 65,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 7
+    },
+    {
+      "seed": 66,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 67,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 68,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    },
+    {
+      "seed": 69,
+      "variant": true,
+      "status": "won",
+      "shots": 3,
+      "hits": 8
+    },
+    {
+      "seed": 70,
+      "variant": true,
+      "status": "won",
+      "shots": 4,
+      "hits": 6
+    }
+  ],
+  "scope": "Every combination in mod5/mod7/mod2 parameter period; safe top-target policy, fixed 60Hz. This is solvability, not Human skill/attraction."
+}

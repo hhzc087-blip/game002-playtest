@@ -1,0 +1,10 @@
+{
+  "scope": "Headless Chromium, emulated touch; no real device or TapTap host. Ten real terminal rounds per game via visible UI inputs; no state injection.",
+  "checks": [],
+  "errors": [],
+  "failedRequests": [],
+  "rounds": [],
+  "failure": "Error: browserContext.newPage: Executable doesn't exist at /Users/huangzecong/Library/Caches/ms-playwright/ffmpeg-1011/ffmpeg-mac\n╔═════════════════════════════════════════════════════════════════╗\n║ Video rendering requires ffmpeg binary.                         ║\n║ Downloading it will not affect any of the system-wide settings. ║\n║ Please run the following command:                               ║\n║                                                                 ║\n║     npx playwright install ffmpeg                               ║\n║                                                                 ║\n║ <3 Playwright Team                                              ║\n╚═════════════════════════════════════════════════════════════════╝",
+  "passed": false,
+  "created_at": "2026-10-26T05:21:14.475Z"
+}

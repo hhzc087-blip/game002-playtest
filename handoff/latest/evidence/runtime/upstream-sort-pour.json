@@ -1,0 +1,6 @@
+{
+  "before": "Level 1\n0 / 18\n?\n?\n?\n?\n?\n?\n Undo\n Restart\n Bottle 120\nSolve\nSkip",
+  "after": "Level 1\n1 / 18\n?\n?\n?\n?\n?\n?\n Undo\n Restart\n Bottle 120\nSolve\nSkip",
+  "status": "PASS",
+  "action": "tap first blue top tube -> seventh empty tube; rendered move count changed"
+}

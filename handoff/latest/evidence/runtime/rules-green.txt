@@ -1,0 +1,20 @@
+
+> game002-market-first@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ a crossing row and column clear simultaneously, burst is a real rules difference (0.56175ms)
+✔ invalid placement never consumes a piece or changes score (1.110541ms)
+✔ same seed has the same offers, and ten rounds can reach actual terminal states (12.209542ms)
+✔ sort rejects different top colors and full targets without mutation (0.173708ms)
+✔ generated sorting puzzles have a valid executable witness across 200 seeds per mode (192.066166ms)
+✔ single inversion changes buried color access and cannot be reused (0.591625ms)
+✔ tower uses real physical hits and ten layouts can end by legal shots (47.330958ms)
+✔ protecting the core is an actual loss condition (0.192708ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 311.538625

@@ -1,0 +1,28 @@
+{
+  "task_owned_servers_stopped": [
+    {
+      "port": 4172,
+      "pid": 25146,
+      "cwd_verified": true,
+      "terminated": true
+    },
+    {
+      "port": 4173,
+      "pid": 25635,
+      "cwd_verified": true,
+      "terminated": true
+    },
+    {
+      "port": 4174,
+      "pid": 25662,
+      "cwd_verified": true,
+      "terminated": true
+    }
+  ],
+  "task_browser_scripts_completed": true,
+  "task_orphan_count": 0,
+  "intentional_remaining_services": [
+    "GitHub Pages static preview (remote)"
+  ],
+  "scope": "Only listeners whose cwd is GAME_002 were terminated. Unrelated browsers and sessions were not touched."
+}

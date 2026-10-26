@@ -1,0 +1,7 @@
+{
+  "changed_existing_files": [],
+  "head_unchanged": true,
+  "status_unchanged": true,
+  "checked_files": 17783,
+  "scope": "source, assets, docs excluding .git/node_modules/dist/handoff; git HEAD and status also checked"
+}

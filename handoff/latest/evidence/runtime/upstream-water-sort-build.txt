@@ -1,0 +1,25 @@
+
+> water-sort@0.1.0 build
+> tsc -b && vite build
+
+vite v6.4.1 building for production...
+transforming...
+✓ 412 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/registerSW.js                0.17 kB
+dist/manifest.webmanifest         0.60 kB
+dist/index.html                   1.18 kB │ gzip:   0.53 kB
+dist/assets/index-VUWjo7rv.css    5.62 kB │ gzip:   1.71 kB
+dist/assets/index-DCIynIqu.js   380.28 kB │ gzip: 121.19 kB
+✓ built in 874ms
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+PWA v1.2.0
+mode      generateSW
+precache  17 entries (2329.63 KiB)
+files generated
+  dist/sw.js
+  dist/workbox-8c29f6e4.js

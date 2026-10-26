@@ -1,0 +1,229 @@
+{
+  "scope": "Headless Chromium, emulated touch; no real device or TapTap host. Ten real terminal rounds per game via visible UI inputs; no state injection.",
+  "checks": [
+    {
+      "name": "blocks: 10 terminal rounds using touch selection and placement",
+      "status": "PASS"
+    },
+    {
+      "name": "sort: inversion and undo restore the exact initial colors",
+      "status": "PASS"
+    },
+    {
+      "name": "sort: 10 complete wins via actual tap inputs",
+      "status": "PASS"
+    },
+    {
+      "name": "tower: 10 wins with actual touch shots and real-time physics",
+      "status": "PASS"
+    },
+    {
+      "name": "all games fit 360/390/430 phone widths and desktop without horizontal overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "retry restores seed; mode switch changes inversion allowance",
+      "status": "PASS"
+    },
+    {
+      "name": "blocked/corrupted localStorage never prevents startup",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "rounds": [
+    {
+      "game": "blocks",
+      "seed": 1,
+      "result": "won",
+      "moves": 22
+    },
+    {
+      "game": "blocks",
+      "seed": 2,
+      "result": "won",
+      "moves": 23
+    },
+    {
+      "game": "blocks",
+      "seed": 3,
+      "result": "won",
+      "moves": 19
+    },
+    {
+      "game": "blocks",
+      "seed": 4,
+      "result": "won",
+      "moves": 23
+    },
+    {
+      "game": "blocks",
+      "seed": 5,
+      "result": "won",
+      "moves": 18
+    },
+    {
+      "game": "blocks",
+      "seed": 6,
+      "result": "won",
+      "moves": 18
+    },
+    {
+      "game": "blocks",
+      "seed": 7,
+      "result": "won",
+      "moves": 17
+    },
+    {
+      "game": "blocks",
+      "seed": 8,
+      "result": "won",
+      "moves": 24
+    },
+    {
+      "game": "blocks",
+      "seed": 9,
+      "result": "won",
+      "moves": 23
+    },
+    {
+      "game": "blocks",
+      "seed": 10,
+      "result": "won",
+      "moves": 28
+    },
+    {
+      "game": "sort",
+      "seed": 1,
+      "result": "won",
+      "moves": 11
+    },
+    {
+      "game": "sort",
+      "seed": 2,
+      "result": "won",
+      "moves": 14
+    },
+    {
+      "game": "sort",
+      "seed": 3,
+      "result": "won",
+      "moves": 14
+    },
+    {
+      "game": "sort",
+      "seed": 4,
+      "result": "won",
+      "moves": 14
+    },
+    {
+      "game": "sort",
+      "seed": 5,
+      "result": "won",
+      "moves": 13
+    },
+    {
+      "game": "sort",
+      "seed": 6,
+      "result": "won",
+      "moves": 9
+    },
+    {
+      "game": "sort",
+      "seed": 7,
+      "result": "won",
+      "moves": 11
+    },
+    {
+      "game": "sort",
+      "seed": 8,
+      "result": "won",
+      "moves": 12
+    },
+    {
+      "game": "sort",
+      "seed": 9,
+      "result": "won",
+      "moves": 8
+    },
+    {
+      "game": "sort",
+      "seed": 10,
+      "result": "won",
+      "moves": 11
+    },
+    {
+      "game": "tower",
+      "seed": 1,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 2,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 3,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 4,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 5,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 6,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 7,
+      "result": "won",
+      "hits": 7,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 8,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 9,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 10,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    }
+  ],
+  "passed": true,
+  "created_at": "2026-10-26T05:24:04.500Z"
+}

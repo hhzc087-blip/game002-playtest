@@ -1,0 +1,45 @@
+[
+  {
+    "local_directory": "vendor/10block",
+    "remote": "https://github.com/viliceq/10block.git",
+    "commit": "93dfa7eaf785043d038a4e5f20ba358d90f6edd9",
+    "license_files": [
+      {
+        "name": "LICENSE",
+        "sha256": "4d013a53410d06a061d3b8839eeb393f88849466c742e171dbe95691a5223ca9"
+      }
+    ],
+    "commercial_reuse": "MIT found; preserve attribution and separately audit all assets"
+  },
+  {
+    "local_directory": "vendor/water-sort",
+    "remote": "https://github.com/Evgeny-/water-sort.git",
+    "commit": "9405d54dfc15ab361148e12655ee9de096237c05",
+    "license_files": [],
+    "commercial_reuse": "NOT CLEARED: no root license; runtime reference only"
+  },
+  {
+    "local_directory": "vendor/water-sort-mit",
+    "remote": "https://github.com/vp125/water-sort.git",
+    "commit": "79fb6ce668c1e5731c6c235cc480f3efe5f9ce8c",
+    "license_files": [
+      {
+        "name": "LICENSE",
+        "sha256": "66fb04a19aa0b9edc2c145c3638b8a8c918656aea464c1178f5094ef162b8a75"
+      }
+    ],
+    "commercial_reuse": "MIT found; preserve attribution and separately audit all assets"
+  },
+  {
+    "local_directory": "vendor/matter-js",
+    "remote": "https://github.com/liabru/matter-js.git",
+    "commit": "b8ee71cd7f9b49f53639ddaedd6254f1929bcbe5",
+    "license_files": [
+      {
+        "name": "LICENSE",
+        "sha256": "ed182087be5b26734aa6d4789743de3a97417950e8c1e3ff2e3d19c6462720d3"
+      }
+    ],
+    "commercial_reuse": "MIT found; preserve attribution and separately audit all assets"
+  }
+]

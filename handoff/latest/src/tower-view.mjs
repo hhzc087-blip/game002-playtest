@@ -1,0 +1,20 @@
+import{newTower,shoot,stepTower,disposeTower,CANNON,Matter}from'./tower.mjs';
+export function mountTower(host,seed,variant,ui){
+ const g=newTower(seed,variant),canvas=document.createElement('canvas');canvas.width=800;canvas.height=1040;canvas.setAttribute('aria-label','拆塔场景。轻点或拖动瞄准绿色目标，松手发射，避开中间蓝色核心。');host.replaceChildren(canvas);const ctx=canvas.getContext('2d');ctx.scale(2,2);let aim={x:90,y:300},drag=false,raf,prev=performance.now(),acc=0,particles=[];
+ const pos=e=>{const b=canvas.getBoundingClientRect();return{x:(e.clientX-b.x)*400/b.width,y:(e.clientY-b.y)*520/b.height}};
+ function draw(){ctx.clearRect(0,0,400,520);ctx.strokeStyle='#294455';ctx.lineWidth=1;for(let y=150;y<480;y+=45){ctx.beginPath();ctx.moveTo(15,y);ctx.lineTo(385,y);ctx.stroke()}
+  ctx.save();ctx.setLineDash([5,7]);ctx.strokeStyle=variant?'#9ed6fb66':'#456478';ctx.strokeRect(157,330,86,90);ctx.restore();
+  for(const b of Matter.Composite.allBodies(g.engine.world)){if(b===g.floor)continue;ctx.fillStyle=b.label==='core'?'#8ad2ff':b.label==='target'?(b.kind?'#ffc99b':'#d3f489'):b.label==='ball'?'#fff9d7':'#557181';ctx.beginPath();b.vertices.forEach((v,i)=>i?ctx.lineTo(v.x,v.y):ctx.moveTo(v.x,v.y));ctx.closePath();ctx.fill();ctx.strokeStyle=b.label==='core'?'#ddf2ff':'#ffffff35';ctx.lineWidth=2;ctx.stroke();
+   if(b.label==='target'){ctx.fillStyle='#244338';ctx.font='20px system-ui';ctx.textAlign='center';ctx.fillText('×',b.position.x,b.position.y+7)}if(b.label==='core'){ctx.fillStyle='#14405b';ctx.font='22px system-ui';ctx.fillText('◈',b.position.x,b.position.y+7)}
+  }
+  if(g.status==='playing'&&g.shotAge>=90&&g.shots){const dx=aim.x-CANNON.x,dy=Math.max(30,aim.y-CANNON.y),len=Math.hypot(dx,dy);ctx.fillStyle='#f7ecc788';for(let i=1;i<16;i++){const t=i*2;const x=CANNON.x+dx/len*20*t,y=CANNON.y+dy/len*20*t+.09*t*t;if(x<0||x>400||y>510)break;ctx.beginPath();ctx.arc(x,y,2,0,7);ctx.fill()}}
+  const angle=Math.atan2(aim.y-CANNON.y,aim.x-CANNON.x);ctx.save();ctx.translate(CANNON.x,CANNON.y);ctx.rotate(angle);ctx.fillStyle='#d3f489';ctx.beginPath();ctx.roundRect(-8,-11,45,22,6);ctx.fill();ctx.restore();ctx.fillStyle='#ffcea0';ctx.beginPath();ctx.arc(CANNON.x,CANNON.y,15,0,7);ctx.fill();
+  ctx.fillStyle='#9cb9cc';ctx.font='11px system-ui';ctx.textAlign='center';ctx.fillText(g.shotAge<90?'看一看连锁反应…':'点目标 / 拖动瞄准 · 松手发射',200,30);ctx.fillText(variant?'避开蓝色核心，优先打高处':'普通规则：尽量少用弹药',200,494);
+  for(const p of particles){ctx.globalAlpha=p.life;ctx.fillStyle=p.color;ctx.fillRect(p.x,p.y,5,5);p.x+=p.vx;p.y+=p.vy;p.vy+=.12;p.life-=.025}particles=particles.filter(p=>p.life>0);ctx.globalAlpha=1;
+ }
+ function frame(now){if(document.hidden){prev=now;acc=0;raf=requestAnimationFrame(frame);return}acc+=Math.min(now-prev,80);prev=now;while(acc>=1000/60){stepTower(g);acc-=1000/60;for(const hit of g.last){for(let i=0;i<10;i++)particles.push({...hit,vx:Math.cos(i*2.4)*3,vy:Math.sin(i*2.4)*3,color:hit.kind?'#ffc99b':'#d3f489',life:1});ui.sound('clear')}if(g.status!=='playing')break}
+  ui.stats(`剩余目标 ${g.targets.filter(t=>!t.removed).length}`,`弹药 ${g.shots} / 8`);draw();if(g.status!=='playing')ui.finish(g.status,g.targets.filter(t=>t.removed).length*10+g.shots*5,g.coreHit?'蓝色核心被击中。试试从高处拆开。':g.status==='won'?`清空目标，还剩 ${g.shots} 发`:'弹药用完。换个角度再试一次。');else raf=requestAnimationFrame(frame);
+ }
+ canvas.onpointerdown=e=>{e.preventDefault();ui.gesture();aim=pos(e);drag=true;canvas.setPointerCapture(e.pointerId)};canvas.onpointermove=e=>{if(drag)aim=pos(e)};canvas.onpointerup=e=>{if(!drag)return;drag=false;aim=pos(e);if(shoot(g,aim.x,aim.y)){ui.sound('shoot');ui.feedback('命中支点，观察后续的掉落。')}else ui.feedback('等弹球落定，再发射下一颗。')};canvas.onpointercancel=()=>{drag=false};
+ raf=requestAnimationFrame(frame);return{state:()=>({seed:g.seed,variant:g.variant,status:g.status,shots:g.shots,shotAge:g.shotAge,hits:g.hits,core:{...g.core.position},targets:g.targets.map(t=>({x:t.position.x,y:t.position.y,removed:!!t.removed}))}),dispose(){cancelAnimationFrame(raf);disposeTower(g);canvas.onpointerdown=canvas.onpointermove=canvas.onpointerup=canvas.onpointercancel=null}};
+}

@@ -1,0 +1,97 @@
+{
+  "scope": "Headless Chromium, emulated touch; no real device or TapTap host. Ten real terminal rounds per game via visible UI inputs; no state injection.",
+  "checks": [
+    {
+      "name": "tower: 10 wins with actual touch shots and real-time physics",
+      "status": "PASS"
+    },
+    {
+      "name": "all games fit 360/390/430 phone widths and desktop without horizontal overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "retry restores seed; mode switch changes inversion allowance",
+      "status": "PASS"
+    },
+    {
+      "name": "blocked/corrupted localStorage never prevents startup",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "rounds": [
+    {
+      "game": "tower",
+      "seed": 1,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 2,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 3,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 4,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 5,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 6,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 7,
+      "result": "won",
+      "hits": 7,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 8,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    },
+    {
+      "game": "tower",
+      "seed": 9,
+      "result": "won",
+      "hits": 8,
+      "shotsLeft": 3
+    },
+    {
+      "game": "tower",
+      "seed": 10,
+      "result": "won",
+      "hits": 6,
+      "shotsLeft": 4
+    }
+  ],
+  "passed": true,
+  "created_at": "2026-10-26T05:27:12.249Z"
+}

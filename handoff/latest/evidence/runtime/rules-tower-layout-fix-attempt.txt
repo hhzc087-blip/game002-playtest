@@ -1,0 +1,43 @@
+
+> game002-market-first@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ a crossing row and column clear simultaneously, burst is a real rules difference (0.546208ms)
+✔ invalid placement never consumes a piece or changes score (0.955709ms)
+✔ same seed has the same offers, and ten rounds can reach actual terminal states (15.196125ms)
+✔ sort rejects different top colors and full targets without mutation (0.146334ms)
+✔ generated sorting puzzles have a valid executable witness across 200 seeds per mode (210.487792ms)
+✔ single inversion changes buried color access and cannot be reused (0.856209ms)
+✖ tower uses real physical hits and ten layouts can end by legal shots (19.943958ms)
+✔ protecting the core is an actual loss condition (0.505625ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 7
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 311.5715
+
+✖ failing tests:
+
+test at tests/rules.test.mjs:20:1
+✖ tower uses real physical hits and ten layouts can end by legal shots (19.943958ms)
+  AssertionError [ERR_ASSERTION]: seed 2: lost, targets 2
+  
+  'lost' !== 'won'
+  
+      at TestContext.<anonymous> (file:///Users/huangzecong/Documents/ChatGPT/TAPTAP%E6%B8%B8%E6%88%8F/GAME_002/tests/rules.test.mjs:21:375)
+      at Test.runInAsyncScope (node:async_hooks:226:14)
+      at Test.run (node:internal/test_runner/test:1382:25)
+      at Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+      at Test.postRun (node:internal/test_runner/test:1522:19)
+      at Test.run (node:internal/test_runner/test:1447:12)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:960:7) {
+    generatedMessage: false,
+    code: 'ERR_ASSERTION',
+    actual: 'lost',
+    expected: 'won',
+    operator: 'strictEqual',
+    diff: 'simple'
+  }

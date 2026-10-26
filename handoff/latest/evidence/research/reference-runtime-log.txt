@@ -1,0 +1,21 @@
+blocky 0
+drift 0
+hook 0
+devil 0
+mart 0
+watermelon 0
+subway 0
+aquapark 0
+chess 0
+woody 1
+numbers 1
+nuts 1
+screws 1
+cats TimeoutError: page.goto: Timeout 22000ms exceeded.
+Call log:
+[2m  - navigating to "https://teambeanloop.itch.io/six-cats-under", waiting until "domcontentloaded"[22m
+
+court Error: page.goto: net::ERR_CONNECTION_REFUSED at https://graebor.itch.io/sort-the-court
+Call log:
+[2m  - navigating to "https://graebor.itch.io/sort-the-court", waiting until "domcontentloaded"[22m
+

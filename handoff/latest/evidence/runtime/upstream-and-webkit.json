@@ -1,0 +1,76 @@
+{
+  "checks": [
+    {
+      "project": "10block",
+      "status": "PASS",
+      "action": "drag tray piece onto cell(0,0)",
+      "filledBefore": 0,
+      "filledAfter": 3
+    },
+    {
+      "project": "Evgeny-/water-sort",
+      "status": "PARTIAL",
+      "action": "Local source build and Play entry; selected pour must be inspected independently",
+      "svgCount": 15
+    },
+    {
+      "project": "Matter.js official slingshot example",
+      "status": "PASS",
+      "action": "drag and release projectile",
+      "bodiesBefore": [
+        {
+          "id": 1,
+          "x": 395,
+          "y": 600
+        },
+        {
+          "id": 30,
+          "x": 610,
+          "y": 250
+        },
+        {
+          "id": 2,
+          "x": 170,
+          "y": 450.70107472016053
+        }
+      ],
+      "bodiesAfter": [
+        {
+          "id": 1,
+          "x": 395,
+          "y": 600
+        },
+        {
+          "id": 30,
+          "x": 610,
+          "y": 250
+        },
+        {
+          "id": 2,
+          "x": 170,
+          "y": 450.70206282358976
+        }
+      ]
+    },
+    {
+      "project": "GAME002 WebKit blocks",
+      "status": "PASS",
+      "scope": "startup, canvas/DOM render and no overflow; not full 10-round validation"
+    },
+    {
+      "project": "GAME002 WebKit sort",
+      "status": "PASS",
+      "scope": "startup, canvas/DOM render and no overflow; not full 10-round validation"
+    },
+    {
+      "project": "GAME002 WebKit tower",
+      "status": "PASS",
+      "scope": "startup, canvas/DOM render and no overflow; not full 10-round validation"
+    }
+  ],
+  "notes": [
+    "MIT Godot source cloned/license inspected; published build screenshot is an attempt, not a local Godot build or native test."
+  ],
+  "created_at": "2026-10-26T05:28:49.206Z",
+  "webkitErrors": []
+}

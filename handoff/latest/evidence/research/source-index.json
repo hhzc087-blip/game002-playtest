@@ -1,0 +1,3947 @@
+[
+  {
+    "id": "wechat-popular",
+    "url": "https://www.momorank.com/rankings/popular",
+    "retrieved_at": "2026-10-26T05:00:45.810749+00:00",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "id": "douyin-popular",
+    "url": "https://www.momorank.com/douyin/rankings/popular",
+    "retrieved_at": "2026-10-26T05:00:45.811150+00:00",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))"
+  },
+  {
+    "id": "taptap-played",
+    "url": "https://www.taptap.cn/top/played",
+    "retrieved_at": "2026-10-26T05:00:45.811226+00:00",
+    "status": 200,
+    "final_url": "https://www.taptap.cn/top/played",
+    "raw_sha256": "6cf67e0c2417d9095ad00576bd189a0955a01ee1348f7d70b8ebaa65f0b0a64c",
+    "snapshot": "evidence/research/taptap-played.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "下载手机 APP",
+        "href": "/download"
+      },
+      {
+        "text": "下载 PC 版",
+        "href": "/download"
+      },
+      {
+        "text": "首页",
+        "href": "/"
+      },
+      {
+        "text": "排行榜",
+        "href": "/top/download"
+      },
+      {
+        "text": "今日游戏",
+        "href": "/app-calendar"
+      },
+      {
+        "text": "云游戏",
+        "href": "/web-cloud-game"
+      },
+      {
+        "text": "PC 游戏",
+        "href": "/pc"
+      },
+      {
+        "text": "社区",
+        "href": "/forum"
+      },
+      {
+        "text": "TapTap 制造",
+        "href": "https://maker.taptap.cn/"
+      },
+      {
+        "text": "试玩中 聚光灯 GameJam 10.25-12.10",
+        "href": "https://www.taptap.cn/poster/NIKiDS1YShdA?utm_content=aid2126"
+      },
+      {
+        "text": "开发者中心",
+        "href": "https://developer.taptap.cn"
+      },
+      {
+        "text": "创作者中心",
+        "href": "/creator"
+      },
+      {
+        "text": "活动中心",
+        "href": "https://www.taptap.cn/gifts"
+      },
+      {
+        "text": "1 心动小镇 8.6 模拟经营 治愈 多人联机 移动/电脑 下载",
+        "href": "/app/45213?os=android"
+      },
+      {
+        "text": "2 Phigros 测试 9.5 音游 手速 节奏 高分游戏 试玩",
+        "href": "/app/165287?os=android"
+      },
+      {
+        "text": "3 初音未来：缤纷舞台 7.8 音游 初音未来 二次元 下载",
+        "href": "/app/223265?os=android"
+      },
+      {
+        "text": "4 我的世界：移动版 6.6 沙盒 开放世界 像素 下载",
+        "href": "/app/43639?os=android"
+      },
+      {
+        "text": "5 火炬之光：无限 7.4 ARPG 刷宝 高画质 移动/电脑 下载",
+        "href": "/app/172664?os=android"
+      },
+      {
+        "text": "6 王者荣耀 5.0 MOBA 5v5 多人联机 下载",
+        "href": "/app/2301?os=android"
+      },
+      {
+        "text": "7 原神 7.9 开放世界 二次元 角色扮演 移动/电脑 2024 TapTap 最受玩家喜爱角色·芙宁娜 下载",
+        "href": "/app/168332?os=android"
+      },
+      {
+        "text": "8 绿梦：时空之声 6.1 二次元 冒险 3D 移动/电脑 下载",
+        "href": "/app/237561?os=android"
+      },
+      {
+        "text": "9 植物大战僵尸2 6.2 僵尸 塔防 单机 下载",
+        "href": "/app/54031?os=android"
+      },
+      {
+        "text": "10 我的休闲时光 8.9 休闲 竖屏 手绘 下载",
+        "href": "/app/242251?os=android"
+      },
+      {
+        "text": "1 失落城堡2 7.1 4天前 首发 下载",
+        "href": "/app/711779?os=android"
+      },
+      {
+        "text": "2 篮球少女：飞跃巅峰 8.3 3天前 首发 移动/电脑 下载",
+        "href": "/app/741112?os=android"
+      },
+      {
+        "text": "3 星途天城 7.6 4天前 首发 下载",
+        "href": "/app/893924?os=android"
+      },
+      {
+        "text": "4 拳皇·命运 6.7 5天前 首发 下载",
+        "href": "/app/868037?os=android"
+      },
+      {
+        "text": "5 绿梦：时空之声 6.1 二次元 冒险 3D 移动/电脑 下载",
+        "href": "/app/237561?os=android"
+      },
+      {
+        "text": "6 僵尸列车 测试 8.3 聚光灯GameJam 策略 试玩",
+        "href": "/app/961321?os=android"
+      },
+      {
+        "text": "7 火力不足恐惧症 测试 9.6 聚光灯GameJam 休闲 移动/电脑 高分游戏 试玩",
+        "href": "/app/972285?os=android"
+      },
+      {
+        "text": "8 吃谁变谁：从小蚂蚁吃成森林霸主 测试 9.0 TapTap制造 动作 移动/电脑 试玩",
+        "href": "/app/972008?os=android"
+      },
+      {
+        "text": "9 骑马砍杀 测试 9.3 策略 模拟经营 沙盒 高分游戏 试玩",
+        "href": "/app/977480?os=android"
+      },
+      {
+        "text": "10 秩序：新曙光 8.4 建造 像素 策略 移动/电脑 下载",
+        "href": "/app/242783?os=android"
+      },
+      {
+        "text": "1 灵涌 测试 9.6 TapTap制造 休闲 移动/电脑 高分游戏 试玩",
+        "href": "/app/954103?os=android"
+      },
+      {
+        "text": "2 火力不足恐惧症 测试 9.6 休闲 移动/电脑 高分游戏 试玩",
+        "href": "/app/972285?os=android"
+      },
+      {
+        "text": "3 多米诺的子弹工厂 测试 9.4 TapTap制造 休闲 移动/电脑 高分游戏 试玩",
+        "href": "/app/956393?os=android"
+      },
+      {
+        "text": "4 蔓延之城 测试 9.5 TapTap制造 模拟经营 移动/电脑 试玩",
+        "href": "/app/953922?os=android"
+      },
+      {
+        "text": "5 僵尸列车 测试 8.3 策略 试玩",
+        "href": "/app/961321?os=android"
+      },
+      {
+        "text": "6 梦里也要打卡喵？ 测试 10 休闲 移动/电脑 试玩",
+        "href": "/app/984112?os=android"
+      },
+      {
+        "text": "7 三国：群英涌现 测试 8.9 2天前 新版本更新 移动/电脑 试玩",
+        "href": "/app/957510?os=android"
+      },
+      {
+        "text": "8 苹果是晚安的意思 测试 9.7 休闲 移动/电脑 试玩",
+        "href": "/app/984904?os=android"
+      },
+      {
+        "text": "9 今天孵什么鸟 测试 9.8 TapTap制造 休闲 移动/电脑 试玩",
+        "href": "/app/956529?os=android"
+      },
+      {
+        "text": "10 ifso 测试 9.9 益智 移动/电脑 试玩",
+        "href": "/app/970550?os=android"
+      },
+      {
+        "text": "1 泰拉瑞亚 8.9 Steam移植 沙盒 买断制 2021 TapTap 最佳游戏 购买",
+        "href": "/app/194610?os=android"
+      },
+      {
+        "text": "2 潜水员戴夫 8.8 买断制 单机 模拟经营 移动/电脑 购买",
+        "href": "/app/720041?os=android"
+      },
+      {
+        "text": "3 秩序：新曙光 8.4 建造 像素 策略 移动/电脑 下载",
+        "href": "/app/242783?os=android"
+      },
+      {
+        "text": "4 下一站江湖Ⅱ 8.8 买断制 武侠 角色扮演 移动/电脑 购买",
+        "href": "/app/209273?os=android"
+      },
+      {
+        "text": "5 汉末霸业 8.3 买断制 三国 策略 购买",
+        "href": "/app/65333?os=android"
+      },
+      {
+        "text": "6 喵斯快跑 8.8 音游 二次元 跑酷 2018 TapTap 最受玩家喜爱游戏 购买",
+        "href": "/app/60809?os=android"
+      },
+      {
+        "text": "7 霓虹深渊2 7.8 Roguelike 多人联机 赛博朋克 移动/电脑 下载",
+        "href": "/app/751308?os=android"
+      },
+      {
+        "text": "8 拣爱 9.2 单机 买断制 爱情 高分游戏 购买",
+        "href": "/app/614018?os=android"
+      },
+      {
+        "text": "9 鬼谷八荒 8.6 买断制 Steam移植 修仙 2025 TapTap 最佳独立游戏 下载",
+        "href": "/app/700558?os=android"
+      },
+      {
+        "text": "10 艾希 9.7 买断制 动作 打击感 高分游戏 2017 TapTap 最佳游戏 购买",
+        "href": "/app/11190?os=android"
+      },
+      {
+        "text": "首页",
+        "href": "/"
+      },
+      {
+        "text": "今日游戏",
+        "href": "/app-calendar"
+      },
+      {
+        "text": "排行榜",
+        "href": "/top/download"
+      },
+      {
+        "text": "动态",
+        "href": "/forum/hot"
+      }
+    ]
+  },
+  {
+    "id": "taptap-popular",
+    "url": "https://www.taptap.cn/top/index",
+    "retrieved_at": "2026-10-26T05:00:45.811319+00:00",
+    "status": 200,
+    "final_url": "https://www.taptap.cn/top/index",
+    "raw_sha256": "4447f01c76ee2b6ad2fe48aed4ec62ccbcec67500823fa3077f8e3e3e5ef72d7",
+    "snapshot": "evidence/research/taptap-popular.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "下载手机 APP",
+        "href": "/download"
+      },
+      {
+        "text": "下载 PC 版",
+        "href": "/download"
+      },
+      {
+        "text": "首页",
+        "href": "/"
+      },
+      {
+        "text": "排行榜",
+        "href": "/top/download"
+      },
+      {
+        "text": "今日游戏",
+        "href": "/app-calendar"
+      },
+      {
+        "text": "云游戏",
+        "href": "/web-cloud-game"
+      },
+      {
+        "text": "PC 游戏",
+        "href": "/pc"
+      },
+      {
+        "text": "社区",
+        "href": "/forum"
+      },
+      {
+        "text": "TapTap 制造",
+        "href": "https://maker.taptap.cn/"
+      },
+      {
+        "text": "试玩中 聚光灯 GameJam 10.25-12.10",
+        "href": "https://www.taptap.cn/poster/NIKiDS1YShdA?utm_content=aid2126"
+      },
+      {
+        "text": "开发者中心",
+        "href": "https://developer.taptap.cn"
+      },
+      {
+        "text": "创作者中心",
+        "href": "/creator"
+      },
+      {
+        "text": "活动中心",
+        "href": "https://www.taptap.cn/gifts"
+      },
+      {
+        "text": "1 Phigros 测试 9.5 音游 手速 节奏 高分游戏 试玩",
+        "href": "/app/165287?os=android"
+      },
+      {
+        "text": "2 我的世界：移动版 6.6 沙盒 开放世界 像素 下载",
+        "href": "/app/43639?os=android"
+      },
+      {
+        "text": "3 失落城堡2 7.1 4天前 首发 下载",
+        "href": "/app/711779?os=android"
+      },
+      {
+        "text": "4 光·遇 7.9 唯美 治愈 艺术 2019 TapTap 最佳独立游戏 下载",
+        "href": "/app/62448?os=android"
+      },
+      {
+        "text": "5 篮球少女：飞跃巅峰 8.3 3天前 首发 移动/电脑 下载",
+        "href": "/app/741112?os=android"
+      },
+      {
+        "text": "6 星途天城 7.6 4天前 首发 下载",
+        "href": "/app/893924?os=android"
+      },
+      {
+        "text": "7 网约车：接单人生 测试 8.9 模拟 试玩",
+        "href": "/app/995770?os=android"
+      },
+      {
+        "text": "8 绝区零 6.8 二次元 ARPG 高画质 移动/电脑 2024 TapTap 最佳游戏 下载",
+        "href": "/app/234493?os=android"
+      },
+      {
+        "text": "9 伯吉的温馨厨房 测试 9.5 放置 模拟经营 休闲 高分游戏 试玩",
+        "href": "/app/882850?os=android"
+      },
+      {
+        "text": "10 铸剑大师模拟器 测试 7.8 TapTap制造 模拟 试玩",
+        "href": "/app/961780?os=android"
+      },
+      {
+        "text": "1 异人之下 7.8 10月15日 终测招募 移动/电脑 预约",
+        "href": "/app/730674?os=android"
+      },
+      {
+        "text": "2 白银之城 8.6 二次元 侦探 ARPG 移动/电脑 预约",
+        "href": "/app/754910?os=android"
+      },
+      {
+        "text": "3 蓝色星原：旅谣 8.5 11月26日 首发 移动/电脑 预约",
+        "href": "/app/593829?os=android"
+      },
+      {
+        "text": "4 极境：垂钓者 9.2 钓鱼 模拟 休闲 移动/电脑 预约",
+        "href": "/app/949370?os=android"
+      },
+      {
+        "text": "5 无限大 8.3 01月15日 首发 移动/电脑 预约",
+        "href": "/app/383874?os=android"
+      },
+      {
+        "text": "6 甄嬛传 8.0 模拟 休闲 模拟经营 预约",
+        "href": "/app/793980?os=android"
+      },
+      {
+        "text": "7 极限战场 8.4 射击 竞技 高画质 移动/电脑 预约",
+        "href": "/app/944749?os=android"
+      },
+      {
+        "text": "8 变形金刚：新纪元 8.4 策略 剧情 收集 移动/电脑 预约",
+        "href": "/app/901325?os=android"
+      },
+      {
+        "text": "9 三国志：王道天下 8.8 测试招募已开启 移动/电脑 预约",
+        "href": "/app/824115?os=android"
+      },
+      {
+        "text": "10 星布谷地 8.2 模拟经营 3D 休闲 移动/电脑 预约",
+        "href": "/app/776320?os=android"
+      },
+      {
+        "text": "1 心动小镇 8.6 模拟经营 治愈 多人联机 移动/电脑 下载",
+        "href": "/app/45213?os=android"
+      },
+      {
+        "text": "2 Phigros 测试 9.5 音游 手速 节奏 高分游戏 试玩",
+        "href": "/app/165287?os=android"
+      },
+      {
+        "text": "3 初音未来：缤纷舞台 7.8 音游 初音未来 二次元 下载",
+        "href": "/app/223265?os=android"
+      },
+      {
+        "text": "4 我的世界：移动版 6.6 沙盒 开放世界 像素 下载",
+        "href": "/app/43639?os=android"
+      },
+      {
+        "text": "5 火炬之光：无限 7.4 ARPG 刷宝 高画质 移动/电脑 下载",
+        "href": "/app/172664?os=android"
+      },
+      {
+        "text": "6 王者荣耀 5.0 MOBA 5v5 多人联机 下载",
+        "href": "/app/2301?os=android"
+      },
+      {
+        "text": "7 原神 7.9 开放世界 二次元 角色扮演 移动/电脑 2024 TapTap 最受玩家喜爱角色·芙宁娜 下载",
+        "href": "/app/168332?os=android"
+      },
+      {
+        "text": "8 绿梦：时空之声 6.1 二次元 冒险 3D 移动/电脑 下载",
+        "href": "/app/237561?os=android"
+      },
+      {
+        "text": "9 植物大战僵尸2 6.2 僵尸 塔防 单机 下载",
+        "href": "/app/54031?os=android"
+      },
+      {
+        "text": "10 我的休闲时光 8.9 休闲 竖屏 手绘 下载",
+        "href": "/app/242251?os=android"
+      },
+      {
+        "text": "1 失落城堡2 7.1 4天前 首发 下载",
+        "href": "/app/711779?os=android"
+      },
+      {
+        "text": "2 篮球少女：飞跃巅峰 8.3 3天前 首发 移动/电脑 下载",
+        "href": "/app/741112?os=android"
+      },
+      {
+        "text": "3 星途天城 7.6 4天前 首发 下载",
+        "href": "/app/893924?os=android"
+      },
+      {
+        "text": "4 拳皇·命运 6.7 5天前 首发 下载",
+        "href": "/app/868037?os=android"
+      },
+      {
+        "text": "5 绿梦：时空之声 6.1 二次元 冒险 3D 移动/电脑 下载",
+        "href": "/app/237561?os=android"
+      },
+      {
+        "text": "6 僵尸列车 测试 8.3 聚光灯GameJam 策略 试玩",
+        "href": "/app/961321?os=android"
+      },
+      {
+        "text": "7 火力不足恐惧症 测试 9.6 聚光灯GameJam 休闲 移动/电脑 高分游戏 试玩",
+        "href": "/app/972285?os=android"
+      },
+      {
+        "text": "8 吃谁变谁：从小蚂蚁吃成森林霸主 测试 9.0 TapTap制造 动作 移动/电脑 试玩",
+        "href": "/app/972008?os=android"
+      },
+      {
+        "text": "9 骑马砍杀 测试 9.3 策略 模拟经营 沙盒 高分游戏 试玩",
+        "href": "/app/977480?os=android"
+      },
+      {
+        "text": "10 秩序：新曙光 8.4 建造 像素 策略 移动/电脑 下载",
+        "href": "/app/242783?os=android"
+      },
+      {
+        "text": "首页",
+        "href": "/"
+      },
+      {
+        "text": "今日游戏",
+        "href": "/app-calendar"
+      },
+      {
+        "text": "排行榜",
+        "href": "/top/download"
+      },
+      {
+        "text": "动态",
+        "href": "/forum/hot"
+      }
+    ]
+  },
+  {
+    "id": "google-casual-us",
+    "url": "https://www.appbrain.com/stats/google-play-rankings/top_free/casual/us",
+    "retrieved_at": "2026-10-26T05:00:46.201863+00:00",
+    "error": "HTTPSConnectionPool(host='www.appbrain.com', port=443): Max retries exceeded with url: /stats/google-play-rankings/top_free/casual/us (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.appbrain.com', port=443) at 0x102bab210>, 'Connection to www.appbrain.com timed out. (connect timeout=35)'))"
+  },
+  {
+    "id": "google-puzzle-us",
+    "url": "https://www.appbrain.com/stats/google-play-rankings/top_free/puzzle/us",
+    "retrieved_at": "2026-10-26T05:00:46.213178+00:00",
+    "error": "HTTPSConnectionPool(host='www.appbrain.com', port=443): Max retries exceeded with url: /stats/google-play-rankings/top_free/puzzle/us (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.appbrain.com', port=443) at 0x101f91cd0>, 'Connection to www.appbrain.com timed out. (connect timeout=35)'))"
+  },
+  {
+    "id": "apple-puzzle-us",
+    "url": "https://apps.apple.com/us/iphone/charts/7012?chart=top-free",
+    "retrieved_at": "2026-10-26T05:00:46.493054+00:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/iphone/charts/7012?chart=top-free",
+    "raw_sha256": "8ec44817190e3ceb7eb53eb6310a1c91fca8948cdab7deb453ed6444faba1d7c",
+    "snapshot": "evidence/research/apple-puzzle-us.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "Today",
+        "href": "https://apps.apple.com/us/iphone/today"
+      },
+      {
+        "text": "Games",
+        "href": "https://apps.apple.com/us/iphone/games"
+      },
+      {
+        "text": "Apps",
+        "href": "https://apps.apple.com/us/iphone/apps"
+      },
+      {
+        "text": "Arcade",
+        "href": "https://apps.apple.com/us/iphone/arcade"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://apps.apple.com/us/iphone/today"
+      },
+      {
+        "text": "iPad",
+        "href": "https://apps.apple.com/us/ipad/today"
+      },
+      {
+        "text": "Mac",
+        "href": "https://apps.apple.com/us/mac/discover"
+      },
+      {
+        "text": "Vision",
+        "href": "https://apps.apple.com/us/vision/apps-and-games"
+      },
+      {
+        "text": "Watch",
+        "href": "https://apps.apple.com/us/watch/apps-and-games"
+      },
+      {
+        "text": "TV",
+        "href": "https://apps.apple.com/us/tv/discover"
+      },
+      {
+        "text": "All Games",
+        "href": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
+      },
+      {
+        "text": "Action",
+        "href": "https://apps.apple.com/us/iphone/charts/7001?chart=top-free"
+      },
+      {
+        "text": "Adventure",
+        "href": "https://apps.apple.com/us/iphone/charts/7002?chart=top-free"
+      },
+      {
+        "text": "Board",
+        "href": "https://apps.apple.com/us/iphone/charts/7004?chart=top-free"
+      },
+      {
+        "text": "Card",
+        "href": "https://apps.apple.com/us/iphone/charts/7005?chart=top-free"
+      },
+      {
+        "text": "Casino",
+        "href": "https://apps.apple.com/us/iphone/charts/7006?chart=top-free"
+      },
+      {
+        "text": "Casual",
+        "href": "https://apps.apple.com/us/iphone/charts/7003?chart=top-free"
+      },
+      {
+        "text": "Family",
+        "href": "https://apps.apple.com/us/iphone/charts/7009?chart=top-free"
+      },
+      {
+        "text": "Kids",
+        "href": "https://apps.apple.com/us/iphone/charts/36?ageBandId=0&chart=top-free"
+      },
+      {
+        "text": "Music",
+        "href": "https://apps.apple.com/us/iphone/charts/7011?chart=top-free"
+      },
+      {
+        "text": "Puzzle",
+        "href": "https://apps.apple.com/us/iphone/charts/7012?chart=top-free"
+      },
+      {
+        "text": "Racing",
+        "href": "https://apps.apple.com/us/iphone/charts/7013?chart=top-free"
+      },
+      {
+        "text": "Roleplaying",
+        "href": "https://apps.apple.com/us/iphone/charts/7014?chart=top-free"
+      },
+      {
+        "text": "Simulation",
+        "href": "https://apps.apple.com/us/iphone/charts/7015?chart=top-free"
+      },
+      {
+        "text": "Sports",
+        "href": "https://apps.apple.com/us/iphone/charts/7016?chart=top-free"
+      },
+      {
+        "text": "Strategy",
+        "href": "https://apps.apple.com/us/iphone/charts/7017?chart=top-free"
+      },
+      {
+        "text": "Trivia",
+        "href": "https://apps.apple.com/us/iphone/charts/7018?chart=top-free"
+      },
+      {
+        "text": "Word",
+        "href": "https://apps.apple.com/us/iphone/charts/7019?chart=top-free"
+      },
+      {
+        "text": "Free",
+        "href": "https://apps.apple.com/us/iphone/charts/7012?chart=top-free"
+      },
+      {
+        "text": "Paid",
+        "href": "https://apps.apple.com/us/iphone/charts/7012?chart=top-paid"
+      },
+      {
+        "text": "1 Meowdoku! Brain Puzzle Games View",
+        "href": "https://apps.apple.com/us/app/meowdoku/id6761760135"
+      },
+      {
+        "text": "2 Block Out! - Color Sort Puzzle Color Block Puzzle View",
+        "href": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+      },
+      {
+        "text": "3 Magic Sort! Water Sorting Puzzle View",
+        "href": "https://apps.apple.com/us/app/magic-sort/id6499209744"
+      },
+      {
+        "text": "4 Sand Blocks: Drop Puzzle Relaxing Sand Puzzle View",
+        "href": "https://apps.apple.com/us/app/sand-blocks-drop-puzzle/id6757140488"
+      },
+      {
+        "text": "5 Block Blast！ Daily Puzzle & Block Crush View",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "6 Rotate Rings Logic Puzzle: Twist to Unlink View",
+        "href": "https://apps.apple.com/us/app/rotate-rings/id6793924927"
+      },
+      {
+        "text": "7 Colony Flow! Guide Ants & Clear Pixel Art View",
+        "href": "https://apps.apple.com/us/app/colony-flow/id6779167923"
+      },
+      {
+        "text": "8 Bus Fever Party! Bus Traffic Jam Escape Puzzle View",
+        "href": "https://apps.apple.com/us/app/bus-fever-party/id6746743297"
+      },
+      {
+        "text": "9 CubeAway - 3DPuzzle 3D Away Puzzle View",
+        "href": "https://apps.apple.com/us/app/cubeaway-3dpuzzle/id6760325543"
+      },
+      {
+        "text": "10 Township From Farming Town to Big City View",
+        "href": "https://apps.apple.com/us/app/township/id638689075"
+      },
+      {
+        "text": "11 Word Tiles - Relaxing Puzzle Word Puzzle Game View",
+        "href": "https://apps.apple.com/us/app/word-tiles-relaxing-puzzle/id6783815362"
+      },
+      {
+        "text": "12 Bus Traffic Fever! Bus Traffic Fever:Color Puzzle View",
+        "href": "https://apps.apple.com/us/app/bus-traffic-fever/id6759763476"
+      },
+      {
+        "text": "13 Brain Puzzle 3: Crazy Mind A New Brain Puzzle Game View",
+        "href": "https://apps.apple.com/us/app/brain-puzzle-3-crazy-mind/id6756482832"
+      },
+      {
+        "text": "14 Amaze GO!™ Help the arrows escape! View",
+        "href": "https://apps.apple.com/us/app/amaze-go/id6758326278"
+      },
+      {
+        "text": "15 Royal Smash! - Physics Puzzle Puzzle Game View",
+        "href": "https://apps.apple.com/us/app/royal-smash-physics-puzzle/id6780891673"
+      },
+      {
+        "text": "16 Gossip Harbor®: Merge & Story Puzzle View",
+        "href": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294"
+      },
+      {
+        "text": "17 Wordscapes Search - Word Game Relaxing brain puzzle games View",
+        "href": "https://apps.apple.com/us/app/wordscapes-search-word-game/id1420294918"
+      },
+      {
+        "text": "18 Woodoku Blast: Block Puzzle Classic Offline Brain Training View",
+        "href": "https://apps.apple.com/us/app/woodoku-blast-block-puzzle/id6608975929"
+      },
+      {
+        "text": "19 Mahjong Blast Offline Mahjong Match Puzzle View",
+        "href": "https://apps.apple.com/us/app/mahjong-blast/id6747492600"
+      },
+      {
+        "text": "20 Tasty Travels: Merge Game Merge and Explore View",
+        "href": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672"
+      },
+      {
+        "text": "21 Jigsaw Drop: Solitaire Puzzle Match Pictures in Puzzle Games View",
+        "href": "https://apps.apple.com/us/app/jigsaw-drop-solitaire-puzzle/id6767091927"
+      },
+      {
+        "text": "22 Royal Match King Robert’s Match 3 Puzzles View",
+        "href": "https://apps.apple.com/us/app/royal-match/id1482155847"
+      },
+      {
+        "text": "23 Fish Sort Puzzle - Bubble Jam Aquarium Color Match Game 3d View",
+        "href": "https://apps.apple.com/us/app/fish-sort-puzzle-bubble-jam/id6771681639"
+      },
+      {
+        "text": "24 Colorever: Gem Art Puzzle Casual View",
+        "href": "https://apps.apple.com/us/app/colorever-gem-art-puzzle/id6761757565"
+      },
+      {
+        "text": "25 Mahjong Clash: Win Real Cash Skill-Based Mahjong Cash Game View",
+        "href": "https://apps.apple.com/us/app/mahjong-clash-win-real-cash/id6760530627"
+      },
+      {
+        "text": "Español (México)",
+        "href": "?l=es-MX"
+      },
+      {
+        "text": "العربية",
+        "href": "?l=ar"
+      },
+      {
+        "text": "Русский",
+        "href": "?l=ru"
+      },
+      {
+        "text": "简体中文",
+        "href": "?l=zh-Hans-CN"
+      },
+      {
+        "text": "Français (France)",
+        "href": "?l=fr-FR"
+      },
+      {
+        "text": "한국어",
+        "href": "?l=ko"
+      },
+      {
+        "text": "Português (Brazil)",
+        "href": "?l=pt-BR"
+      },
+      {
+        "text": "Tiếng Việt",
+        "href": "?l=vi"
+      },
+      {
+        "text": "繁體中文 (台灣)",
+        "href": "?l=zh-Hant-TW"
+      },
+      {
+        "text": "Algeria",
+        "href": "/dz/iphone/today"
+      },
+      {
+        "text": "Angola",
+        "href": "/ao/iphone/today"
+      },
+      {
+        "text": "Armenia",
+        "href": "/am/iphone/today"
+      },
+      {
+        "text": "Azerbaijan",
+        "href": "/az/iphone/today"
+      },
+      {
+        "text": "Bahrain",
+        "href": "/bh/iphone/today"
+      },
+      {
+        "text": "Benin",
+        "href": "/bj/iphone/today"
+      },
+      {
+        "text": "Botswana",
+        "href": "/bw/iphone/today"
+      },
+      {
+        "text": "Burkina Faso",
+        "href": "/bf/iphone/today"
+      },
+      {
+        "text": "Cameroun",
+        "href": "/cm/iphone/today"
+      },
+      {
+        "text": "Cape Verde",
+        "href": "/cv/iphone/today"
+      },
+      {
+        "text": "Chad",
+        "href": "/td/iphone/today"
+      },
+      {
+        "text": "Côte d’Ivoire",
+        "href": "/ci/iphone/today"
+      },
+      {
+        "text": "Congo, The Democratic Republic Of The",
+        "href": "/cd/iphone/today"
+      },
+      {
+        "text": "Egypt",
+        "href": "/eg/iphone/today"
+      },
+      {
+        "text": "Eswatini",
+        "href": "/sz/iphone/today"
+      },
+      {
+        "text": "Gabon",
+        "href": "/ga/iphone/today"
+      },
+      {
+        "text": "Gambia",
+        "href": "/gm/iphone/today"
+      },
+      {
+        "text": "Ghana",
+        "href": "/gh/iphone/today"
+      },
+      {
+        "text": "Guinea-Bissau",
+        "href": "/gw/iphone/today"
+      },
+      {
+        "text": "India",
+        "href": "/in/iphone/today"
+      },
+      {
+        "text": "Iraq",
+        "href": "/iq/iphone/today"
+      },
+      {
+        "text": "Israel",
+        "href": "/il/iphone/today"
+      },
+      {
+        "text": "Jordan",
+        "href": "/jo/iphone/today"
+      },
+      {
+        "text": "Kenya",
+        "href": "/ke/iphone/today"
+      },
+      {
+        "text": "Kuwait",
+        "href": "/kw/iphone/today"
+      },
+      {
+        "text": "Lebanon",
+        "href": "/lb/iphone/today"
+      },
+      {
+        "text": "Liberia",
+        "href": "/lr/iphone/today"
+      },
+      {
+        "text": "Libya",
+        "href": "/ly/iphone/today"
+      },
+      {
+        "text": "Madagascar",
+        "href": "/mg/iphone/today"
+      },
+      {
+        "text": "Malawi",
+        "href": "/mw/iphone/today"
+      },
+      {
+        "text": "Mali",
+        "href": "/ml/iphone/today"
+      },
+      {
+        "text": "Mauritania",
+        "href": "/mr/iphone/today"
+      },
+      {
+        "text": "Mauritius",
+        "href": "/mu/iphone/today"
+      },
+      {
+        "text": "Morocco",
+        "href": "/ma/iphone/today"
+      },
+      {
+        "text": "Mozambique",
+        "href": "/mz/iphone/today"
+      },
+      {
+        "text": "Namibia",
+        "href": "/na/iphone/today"
+      },
+      {
+        "text": "Niger (English)",
+        "href": "/ne/iphone/today"
+      },
+      {
+        "text": "Nigeria",
+        "href": "/ng/iphone/today"
+      },
+      {
+        "text": "Oman",
+        "href": "/om/iphone/today"
+      },
+      {
+        "text": "Qatar",
+        "href": "/qa/iphone/today"
+      },
+      {
+        "text": "Congo, Republic of",
+        "href": "/cg/iphone/today"
+      },
+      {
+        "text": "Rwanda",
+        "href": "/rw/iphone/today"
+      },
+      {
+        "text": "São Tomé and Príncipe",
+        "href": "/st/iphone/today"
+      },
+      {
+        "text": "Saudi Arabia",
+        "href": "/sa/iphone/today"
+      },
+      {
+        "text": "Senegal",
+        "href": "/sn/iphone/today"
+      },
+      {
+        "text": "Seychelles",
+        "href": "/sc/iphone/today"
+      },
+      {
+        "text": "Sierra Leone",
+        "href": "/sl/iphone/today"
+      },
+      {
+        "text": "South Africa",
+        "href": "/za/iphone/today"
+      },
+      {
+        "text": "Sri Lanka",
+        "href": "/lk/iphone/today"
+      },
+      {
+        "text": "Tajikistan",
+        "href": "/tj/iphone/today"
+      },
+      {
+        "text": "Tanzania, United Republic Of",
+        "href": "/tz/iphone/today"
+      },
+      {
+        "text": "Tunisia",
+        "href": "/tn/iphone/today"
+      },
+      {
+        "text": "Turkmenistan",
+        "href": "/tm/iphone/today"
+      },
+      {
+        "text": "United Arab Emirates",
+        "href": "/ae/iphone/today"
+      },
+      {
+        "text": "Uganda",
+        "href": "/ug/iphone/today"
+      },
+      {
+        "text": "Yemen",
+        "href": "/ye/iphone/today"
+      },
+      {
+        "text": "Zambia",
+        "href": "/zm/iphone/today"
+      },
+      {
+        "text": "Zimbabwe",
+        "href": "/zw/iphone/today"
+      },
+      {
+        "text": "Afghanistan",
+        "href": "/af/iphone/today"
+      },
+      {
+        "text": "Australia",
+        "href": "/au/iphone/today"
+      },
+      {
+        "text": "Bhutan",
+        "href": "/bt/iphone/today"
+      },
+      {
+        "text": "Brunei Darussalam",
+        "href": "/bn/iphone/today"
+      },
+      {
+        "text": "Cambodia",
+        "href": "/kh/iphone/today"
+      },
+      {
+        "text": "中国大陆",
+        "href": "/cn/iphone/today"
+      },
+      {
+        "text": "Fiji",
+        "href": "/fj/iphone/today"
+      },
+      {
+        "text": "香港",
+        "href": "/hk/iphone/today"
+      },
+      {
+        "text": "Indonesia (English)",
+        "href": "/id/iphone/today"
+      },
+      {
+        "text": "日本",
+        "href": "/jp/iphone/today"
+      },
+      {
+        "text": "Kazakhstan",
+        "href": "/kz/iphone/today"
+      },
+      {
+        "text": "대한민국",
+        "href": "/kr/iphone/today"
+      },
+      {
+        "text": "Kyrgyzstan",
+        "href": "/kg/iphone/today"
+      },
+      {
+        "text": "Lao People's Democratic Republic",
+        "href": "/la/iphone/today"
+      },
+      {
+        "text": "澳門",
+        "href": "/mo/iphone/today"
+      },
+      {
+        "text": "Malaysia (English)",
+        "href": "/my/iphone/today"
+      },
+      {
+        "text": "Maldives",
+        "href": "/mv/iphone/today"
+      },
+      {
+        "text": "Micronesia, Federated States of",
+        "href": "/fm/iphone/today"
+      },
+      {
+        "text": "Mongolia",
+        "href": "/mn/iphone/today"
+      },
+      {
+        "text": "Myanmar",
+        "href": "/mm/iphone/today"
+      },
+      {
+        "text": "Nauru",
+        "href": "/nr/iphone/today"
+      },
+      {
+        "text": "Nepal",
+        "href": "/np/iphone/today"
+      },
+      {
+        "text": "New Zealand",
+        "href": "/nz/iphone/today"
+      },
+      {
+        "text": "Pakistan",
+        "href": "/pk/iphone/today"
+      },
+      {
+        "text": "Palau",
+        "href": "/pw/iphone/today"
+      },
+      {
+        "text": "Papua New Guinea",
+        "href": "/pg/iphone/today"
+      },
+      {
+        "text": "Philippines",
+        "href": "/ph/iphone/today"
+      },
+      {
+        "text": "Singapore",
+        "href": "/sg/iphone/today"
+      },
+      {
+        "text": "Solomon Islands",
+        "href": "/sb/iphone/today"
+      },
+      {
+        "text": "台灣",
+        "href": "/tw/iphone/today"
+      },
+      {
+        "text": "Thailand",
+        "href": "/th/iphone/today"
+      },
+      {
+        "text": "Tonga",
+        "href": "/to/iphone/today"
+      },
+      {
+        "text": "Turkmenistan",
+        "href": "/tm/iphone/today"
+      },
+      {
+        "text": "Uzbekistan",
+        "href": "/uz/iphone/today"
+      },
+      {
+        "text": "Vanuatu",
+        "href": "/vu/iphone/today"
+      },
+      {
+        "text": "Vietnam",
+        "href": "/vn/iphone/today"
+      },
+      {
+        "text": "Albania",
+        "href": "/al/iphone/today"
+      },
+      {
+        "text": "Armenia",
+        "href": "/am/iphone/today"
+      },
+      {
+        "text": "Österreich",
+        "href": "/at/iphone/today"
+      },
+      {
+        "text": "Belarus",
+        "href": "/by/iphone/today"
+      },
+      {
+        "text": "Belgium",
+        "href": "/be/iphone/today"
+      },
+      {
+        "text": "Bosnia and Herzegovina",
+        "href": "/ba/iphone/today"
+      },
+      {
+        "text": "Bulgaria",
+        "href": "/bg/iphone/today"
+      },
+      {
+        "text": "Croatia",
+        "href": "/hr/iphone/today"
+      },
+      {
+        "text": "Cyprus",
+        "href": "/cy/iphone/today"
+      },
+      {
+        "text": "Czechia",
+        "href": "/cz/iphone/today"
+      },
+      {
+        "text": "Denmark",
+        "href": "/dk/iphone/today"
+      },
+      {
+        "text": "Estonia",
+        "href": "/ee/iphone/today"
+      },
+      {
+        "text": "Finland",
+        "href": "/fi/iphone/today"
+      },
+      {
+        "text": "France (Français)",
+        "href": "/fr/iphone/today"
+      },
+      {
+        "text": "Georgia",
+        "href": "/ge/iphone/today"
+      },
+      {
+        "text": "Deutschland",
+        "href": "/de/iphone/today"
+      },
+      {
+        "text": "Greece",
+        "href": "/gr/iphone/today"
+      },
+      {
+        "text": "Hungary",
+        "href": "/hu/iphone/today"
+      },
+      {
+        "text": "Iceland",
+        "href": "/is/iphone/today"
+      },
+      {
+        "text": "Ireland",
+        "href": "/ie/iphone/today"
+      },
+      {
+        "text": "Italia",
+        "href": "/it/iphone/today"
+      },
+      {
+        "text": "Kosovo",
+        "href": "/xk/iphone/today"
+      },
+      {
+        "text": "Latvia",
+        "href": "/lv/iphone/today"
+      },
+      {
+        "text": "Lithuania",
+        "href": "/lt/iphone/today"
+      },
+      {
+        "text": "Luxembourg (English)",
+        "href": "/lu/iphone/today"
+      },
+      {
+        "text": "Malta",
+        "href": "/mt/iphone/today"
+      },
+      {
+        "text": "Moldova, Republic Of",
+        "href": "/md/iphone/today"
+      },
+      {
+        "text": "Montenegro",
+        "href": "/me/iphone/today"
+      },
+      {
+        "text": "Nederland",
+        "href": "/nl/iphone/today"
+      },
+      {
+        "text": "North Macedonia",
+        "href": "/mk/iphone/today"
+      },
+      {
+        "text": "Norway",
+        "href": "/no/iphone/today"
+      },
+      {
+        "text": "Poland",
+        "href": "/pl/iphone/today"
+      },
+      {
+        "text": "Portugal (Português)",
+        "href": "/pt/iphone/today"
+      },
+      {
+        "text": "Romania",
+        "href": "/ro/iphone/today"
+      },
+      {
+        "text": "Россия",
+        "href": "/ru/iphone/today"
+      },
+      {
+        "text": "Serbia",
+        "href": "/rs/iphone/today"
+      },
+      {
+        "text": "Slovakia",
+        "href": "/sk/iphone/today"
+      },
+      {
+        "text": "Slovenia",
+        "href": "/si/iphone/today"
+      },
+      {
+        "text": "España",
+        "href": "/es/iphone/today"
+      },
+      {
+        "text": "Sverige",
+        "href": "/se/iphone/today"
+      },
+      {
+        "text": "Schweiz",
+        "href": "/ch/iphone/today"
+      },
+      {
+        "text": "Türkiye (English)",
+        "href": "/tr/iphone/today"
+      },
+      {
+        "text": "Ukraine",
+        "href": "/ua/iphone/today"
+      },
+      {
+        "text": "United Kingdom",
+        "href": "/gb/iphone/today"
+      },
+      {
+        "text": "Anguilla",
+        "href": "/ai/iphone/today"
+      },
+      {
+        "text": "Antigua and Barbuda",
+        "href": "/ag/iphone/today"
+      },
+      {
+        "text": "Argentina (Español)",
+        "href": "/ar/iphone/today"
+      },
+      {
+        "text": "Bahamas",
+        "href": "/bs/iphone/today"
+      },
+      {
+        "text": "Barbados",
+        "href": "/bb/iphone/today"
+      },
+      {
+        "text": "Belize",
+        "href": "/bz/iphone/today"
+      },
+      {
+        "text": "Bermuda",
+        "href": "/bm/iphone/today"
+      },
+      {
+        "text": "Bolivia (Español)",
+        "href": "/bo/iphone/today"
+      },
+      {
+        "text": "Brasil",
+        "href": "/br/iphone/today"
+      },
+      {
+        "text": "Virgin Islands, British",
+        "href": "/vg/iphone/today"
+      },
+      {
+        "text": "Cayman Islands",
+        "href": "/ky/iphone/today"
+      },
+      {
+        "text": "Chile (Español)",
+        "href": "/cl/iphone/today"
+      },
+      {
+        "text": "Colombia (Español)",
+        "href": "/co/iphone/today"
+      },
+      {
+        "text": "Costa Rica (Español)",
+        "href": "/cr/iphone/today"
+      },
+      {
+        "text": "Dominica",
+        "href": "/dm/iphone/today"
+      },
+      {
+        "text": "República Dominicana",
+        "href": "/do/iphone/today"
+      },
+      {
+        "text": "Ecuador (Español)",
+        "href": "/ec/iphone/today"
+      },
+      {
+        "text": "El Salvador (Español)",
+        "href": "/sv/iphone/today"
+      },
+      {
+        "text": "Grenada",
+        "href": "/gd/iphone/today"
+      },
+      {
+        "text": "Guatemala (Español)",
+        "href": "/gt/iphone/today"
+      },
+      {
+        "text": "Guyana",
+        "href": "/gy/iphone/today"
+      },
+      {
+        "text": "Honduras (Español)",
+        "href": "/hn/iphone/today"
+      },
+      {
+        "text": "Jamaica",
+        "href": "/jm/iphone/today"
+      },
+      {
+        "text": "México",
+        "href": "/mx/iphone/today"
+      },
+      {
+        "text": "Montserrat",
+        "href": "/ms/iphone/today"
+      },
+      {
+        "text": "Nicaragua (Español)",
+        "href": "/ni/iphone/today"
+      },
+      {
+        "text": "Panamá",
+        "href": "/pa/iphone/today"
+      },
+      {
+        "text": "Paraguay (Español)",
+        "href": "/py/iphone/today"
+      },
+      {
+        "text": "Perú",
+        "href": "/pe/iphone/today"
+      },
+      {
+        "text": "St. Kitts and Nevis",
+        "href": "/kn/iphone/today"
+      },
+      {
+        "text": "Saint Lucia",
+        "href": "/lc/iphone/today"
+      },
+      {
+        "text": "St. Vincent and The Grenadines",
+        "href": "/vc/iphone/today"
+      },
+      {
+        "text": "Suriname",
+        "href": "/sr/iphone/today"
+      },
+      {
+        "text": "Trinidad and Tobago",
+        "href": "/tt/iphone/today"
+      },
+      {
+        "text": "Turks and Caicos",
+        "href": "/tc/iphone/today"
+      },
+      {
+        "text": "Uruguay (English)",
+        "href": "/uy/iphone/today"
+      },
+      {
+        "text": "Venezuela (Español)",
+        "href": "/ve/iphone/today"
+      },
+      {
+        "text": "Canada (English)",
+        "href": "/ca/iphone/today"
+      },
+      {
+        "text": "Canada (Français)",
+        "href": "/ca/iphone/today?l=fr-CA"
+      },
+      {
+        "text": "United States",
+        "href": "/us/iphone/today"
+      },
+      {
+        "text": "Estados Unidos (Español México)",
+        "href": "/us/iphone/today?l=es-MX"
+      },
+      {
+        "text": "الولايات المتحدة",
+        "href": "/us/iphone/today?l=ar"
+      },
+      {
+        "text": "США",
+        "href": "/us/iphone/today?l=ru"
+      },
+      {
+        "text": "美国 (简体中文)",
+        "href": "/us/iphone/today?l=zh-Hans-CN"
+      },
+      {
+        "text": "États-Unis (Français France)",
+        "href": "/us/iphone/today?l=fr-FR"
+      },
+      {
+        "text": "미국",
+        "href": "/us/iphone/today?l=ko"
+      },
+      {
+        "text": "Estados Unidos (Português Brasil)",
+        "href": "/us/iphone/today?l=pt-BR"
+      },
+      {
+        "text": "Hoa Kỳ",
+        "href": "/us/iphone/today?l=vi"
+      },
+      {
+        "text": "美國 (繁體中文台灣)",
+        "href": "/us/iphone/today?l=zh-Hant-TW"
+      },
+      {
+        "text": "Apple Inc.",
+        "href": "https://www.apple.com"
+      },
+      {
+        "text": "Internet Service Terms",
+        "href": "https://www.apple.com/legal/internet-services/"
+      },
+      {
+        "text": "App Store & Privacy",
+        "href": "https://www.apple.com/legal/privacy/data/en/app-store/"
+      },
+      {
+        "text": "Cookie Warning",
+        "href": "https://www.apple.com/privacy/use-of-cookies/"
+      },
+      {
+        "text": "Support",
+        "href": "https://support.apple.com/billing"
+      }
+    ]
+  },
+  {
+    "id": "apple-casual-us",
+    "url": "https://apps.apple.com/us/iphone/charts/7003?chart=top-free",
+    "retrieved_at": "2026-10-26T05:00:46.525660+00:00",
+    "status": 200,
+    "final_url": "https://apps.apple.com/us/iphone/charts/7003?chart=top-free",
+    "raw_sha256": "64a75ea064cbbd3c2dbfd989cc9e01ad9aff40a2c4df161a298b55f25678ce55",
+    "snapshot": "evidence/research/apple-casual-us.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "Today",
+        "href": "https://apps.apple.com/us/iphone/today"
+      },
+      {
+        "text": "Games",
+        "href": "https://apps.apple.com/us/iphone/games"
+      },
+      {
+        "text": "Apps",
+        "href": "https://apps.apple.com/us/iphone/apps"
+      },
+      {
+        "text": "Arcade",
+        "href": "https://apps.apple.com/us/iphone/arcade"
+      },
+      {
+        "text": "iPhone",
+        "href": "https://apps.apple.com/us/iphone/today"
+      },
+      {
+        "text": "iPad",
+        "href": "https://apps.apple.com/us/ipad/today"
+      },
+      {
+        "text": "Mac",
+        "href": "https://apps.apple.com/us/mac/discover"
+      },
+      {
+        "text": "Vision",
+        "href": "https://apps.apple.com/us/vision/apps-and-games"
+      },
+      {
+        "text": "Watch",
+        "href": "https://apps.apple.com/us/watch/apps-and-games"
+      },
+      {
+        "text": "TV",
+        "href": "https://apps.apple.com/us/tv/discover"
+      },
+      {
+        "text": "All Games",
+        "href": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
+      },
+      {
+        "text": "Action",
+        "href": "https://apps.apple.com/us/iphone/charts/7001?chart=top-free"
+      },
+      {
+        "text": "Adventure",
+        "href": "https://apps.apple.com/us/iphone/charts/7002?chart=top-free"
+      },
+      {
+        "text": "Board",
+        "href": "https://apps.apple.com/us/iphone/charts/7004?chart=top-free"
+      },
+      {
+        "text": "Card",
+        "href": "https://apps.apple.com/us/iphone/charts/7005?chart=top-free"
+      },
+      {
+        "text": "Casino",
+        "href": "https://apps.apple.com/us/iphone/charts/7006?chart=top-free"
+      },
+      {
+        "text": "Casual",
+        "href": "https://apps.apple.com/us/iphone/charts/7003?chart=top-free"
+      },
+      {
+        "text": "Family",
+        "href": "https://apps.apple.com/us/iphone/charts/7009?chart=top-free"
+      },
+      {
+        "text": "Kids",
+        "href": "https://apps.apple.com/us/iphone/charts/36?ageBandId=0&chart=top-free"
+      },
+      {
+        "text": "Music",
+        "href": "https://apps.apple.com/us/iphone/charts/7011?chart=top-free"
+      },
+      {
+        "text": "Puzzle",
+        "href": "https://apps.apple.com/us/iphone/charts/7012?chart=top-free"
+      },
+      {
+        "text": "Racing",
+        "href": "https://apps.apple.com/us/iphone/charts/7013?chart=top-free"
+      },
+      {
+        "text": "Roleplaying",
+        "href": "https://apps.apple.com/us/iphone/charts/7014?chart=top-free"
+      },
+      {
+        "text": "Simulation",
+        "href": "https://apps.apple.com/us/iphone/charts/7015?chart=top-free"
+      },
+      {
+        "text": "Sports",
+        "href": "https://apps.apple.com/us/iphone/charts/7016?chart=top-free"
+      },
+      {
+        "text": "Strategy",
+        "href": "https://apps.apple.com/us/iphone/charts/7017?chart=top-free"
+      },
+      {
+        "text": "Trivia",
+        "href": "https://apps.apple.com/us/iphone/charts/7018?chart=top-free"
+      },
+      {
+        "text": "Word",
+        "href": "https://apps.apple.com/us/iphone/charts/7019?chart=top-free"
+      },
+      {
+        "text": "Free",
+        "href": "https://apps.apple.com/us/iphone/charts/7003?chart=top-free"
+      },
+      {
+        "text": "Paid",
+        "href": "https://apps.apple.com/us/iphone/charts/7003?chart=top-paid"
+      },
+      {
+        "text": "1 Meowdoku! Brain Puzzle Games View",
+        "href": "https://apps.apple.com/us/app/meowdoku/id6761760135"
+      },
+      {
+        "text": "2 Block Out! - Color Sort Puzzle Color Block Puzzle View",
+        "href": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568"
+      },
+      {
+        "text": "3 Magic Sort! Water Sorting Puzzle View",
+        "href": "https://apps.apple.com/us/app/magic-sort/id6499209744"
+      },
+      {
+        "text": "4 Block Blast！ Daily Puzzle & Block Crush View",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "5 Rotate Rings Logic Puzzle: Twist to Unlink View",
+        "href": "https://apps.apple.com/us/app/rotate-rings/id6793924927"
+      },
+      {
+        "text": "6 Bus Fever Party! Bus Traffic Jam Escape Puzzle View",
+        "href": "https://apps.apple.com/us/app/bus-fever-party/id6746743297"
+      },
+      {
+        "text": "7 Township From Farming Town to Big City View",
+        "href": "https://apps.apple.com/us/app/township/id638689075"
+      },
+      {
+        "text": "8 Bus Traffic Fever! Bus Traffic Fever:Color Puzzle View",
+        "href": "https://apps.apple.com/us/app/bus-traffic-fever/id6759763476"
+      },
+      {
+        "text": "9 Brain Puzzle 3: Crazy Mind A New Brain Puzzle Game View",
+        "href": "https://apps.apple.com/us/app/brain-puzzle-3-crazy-mind/id6756482832"
+      },
+      {
+        "text": "10 Amaze GO!™ Help the arrows escape! View",
+        "href": "https://apps.apple.com/us/app/amaze-go/id6758326278"
+      },
+      {
+        "text": "11 Royal Smash! - Physics Puzzle Puzzle Game View",
+        "href": "https://apps.apple.com/us/app/royal-smash-physics-puzzle/id6780891673"
+      },
+      {
+        "text": "12 Gossip Harbor®: Merge & Story Puzzle View",
+        "href": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294"
+      },
+      {
+        "text": "13 Car Evolve Upgrade, launch, drive! View",
+        "href": "https://apps.apple.com/us/app/car-evolve/id6754464806"
+      },
+      {
+        "text": "14 Magic Tiles 3™: Piano Game Tap tiles in fun music game View",
+        "href": "https://apps.apple.com/us/app/magic-tiles-3-piano-game/id1443446174"
+      },
+      {
+        "text": "15 Paper.io 2 The world's #1 IO game View",
+        "href": "https://apps.apple.com/us/app/paper-io-2/id1423046460"
+      },
+      {
+        "text": "16 Triumph Arcade Skill-Based Cash Games View",
+        "href": "https://apps.apple.com/us/app/triumph-arcade/id1608987929"
+      },
+      {
+        "text": "17 Tasty Travels: Merge Game Merge and Explore View",
+        "href": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672"
+      },
+      {
+        "text": "18 Subway Surfers Join the endless running fun! View",
+        "href": "https://apps.apple.com/us/app/subway-surfers/id512939461"
+      },
+      {
+        "text": "19 Royal Match King Robert’s Match 3 Puzzles View",
+        "href": "https://apps.apple.com/us/app/royal-match/id1482155847"
+      },
+      {
+        "text": "20 Fish Sort Puzzle - Bubble Jam Aquarium Color Match Game 3d View",
+        "href": "https://apps.apple.com/us/app/fish-sort-puzzle-bubble-jam/id6771681639"
+      },
+      {
+        "text": "21 Colorever: Gem Art Puzzle Casual View",
+        "href": "https://apps.apple.com/us/app/colorever-gem-art-puzzle/id6761757565"
+      },
+      {
+        "text": "22 Mob Control THE real game in THAT fake ad View",
+        "href": "https://apps.apple.com/us/app/mob-control/id1562817072"
+      },
+      {
+        "text": "23 Mahjong Clash: Win Real Cash Skill-Based Mahjong Cash Game View",
+        "href": "https://apps.apple.com/us/app/mahjong-clash-win-real-cash/id6760530627"
+      },
+      {
+        "text": "24 Candy Crush Saga Your Relaxing Puzzle Escape! View",
+        "href": "https://apps.apple.com/us/app/candy-crush-saga/id553834731"
+      },
+      {
+        "text": "25 Hotel Legacy: Merge Game Merge & Renovate View",
+        "href": "https://apps.apple.com/us/app/hotel-legacy-merge-game/id6752886832"
+      },
+      {
+        "text": "Español (México)",
+        "href": "?l=es-MX"
+      },
+      {
+        "text": "العربية",
+        "href": "?l=ar"
+      },
+      {
+        "text": "Русский",
+        "href": "?l=ru"
+      },
+      {
+        "text": "简体中文",
+        "href": "?l=zh-Hans-CN"
+      },
+      {
+        "text": "Français (France)",
+        "href": "?l=fr-FR"
+      },
+      {
+        "text": "한국어",
+        "href": "?l=ko"
+      },
+      {
+        "text": "Português (Brazil)",
+        "href": "?l=pt-BR"
+      },
+      {
+        "text": "Tiếng Việt",
+        "href": "?l=vi"
+      },
+      {
+        "text": "繁體中文 (台灣)",
+        "href": "?l=zh-Hant-TW"
+      },
+      {
+        "text": "Algeria",
+        "href": "/dz/iphone/today"
+      },
+      {
+        "text": "Angola",
+        "href": "/ao/iphone/today"
+      },
+      {
+        "text": "Armenia",
+        "href": "/am/iphone/today"
+      },
+      {
+        "text": "Azerbaijan",
+        "href": "/az/iphone/today"
+      },
+      {
+        "text": "Bahrain",
+        "href": "/bh/iphone/today"
+      },
+      {
+        "text": "Benin",
+        "href": "/bj/iphone/today"
+      },
+      {
+        "text": "Botswana",
+        "href": "/bw/iphone/today"
+      },
+      {
+        "text": "Burkina Faso",
+        "href": "/bf/iphone/today"
+      },
+      {
+        "text": "Cameroun",
+        "href": "/cm/iphone/today"
+      },
+      {
+        "text": "Cape Verde",
+        "href": "/cv/iphone/today"
+      },
+      {
+        "text": "Chad",
+        "href": "/td/iphone/today"
+      },
+      {
+        "text": "Côte d’Ivoire",
+        "href": "/ci/iphone/today"
+      },
+      {
+        "text": "Congo, The Democratic Republic Of The",
+        "href": "/cd/iphone/today"
+      },
+      {
+        "text": "Egypt",
+        "href": "/eg/iphone/today"
+      },
+      {
+        "text": "Eswatini",
+        "href": "/sz/iphone/today"
+      },
+      {
+        "text": "Gabon",
+        "href": "/ga/iphone/today"
+      },
+      {
+        "text": "Gambia",
+        "href": "/gm/iphone/today"
+      },
+      {
+        "text": "Ghana",
+        "href": "/gh/iphone/today"
+      },
+      {
+        "text": "Guinea-Bissau",
+        "href": "/gw/iphone/today"
+      },
+      {
+        "text": "India",
+        "href": "/in/iphone/today"
+      },
+      {
+        "text": "Iraq",
+        "href": "/iq/iphone/today"
+      },
+      {
+        "text": "Israel",
+        "href": "/il/iphone/today"
+      },
+      {
+        "text": "Jordan",
+        "href": "/jo/iphone/today"
+      },
+      {
+        "text": "Kenya",
+        "href": "/ke/iphone/today"
+      },
+      {
+        "text": "Kuwait",
+        "href": "/kw/iphone/today"
+      },
+      {
+        "text": "Lebanon",
+        "href": "/lb/iphone/today"
+      },
+      {
+        "text": "Liberia",
+        "href": "/lr/iphone/today"
+      },
+      {
+        "text": "Libya",
+        "href": "/ly/iphone/today"
+      },
+      {
+        "text": "Madagascar",
+        "href": "/mg/iphone/today"
+      },
+      {
+        "text": "Malawi",
+        "href": "/mw/iphone/today"
+      },
+      {
+        "text": "Mali",
+        "href": "/ml/iphone/today"
+      },
+      {
+        "text": "Mauritania",
+        "href": "/mr/iphone/today"
+      },
+      {
+        "text": "Mauritius",
+        "href": "/mu/iphone/today"
+      },
+      {
+        "text": "Morocco",
+        "href": "/ma/iphone/today"
+      },
+      {
+        "text": "Mozambique",
+        "href": "/mz/iphone/today"
+      },
+      {
+        "text": "Namibia",
+        "href": "/na/iphone/today"
+      },
+      {
+        "text": "Niger (English)",
+        "href": "/ne/iphone/today"
+      },
+      {
+        "text": "Nigeria",
+        "href": "/ng/iphone/today"
+      },
+      {
+        "text": "Oman",
+        "href": "/om/iphone/today"
+      },
+      {
+        "text": "Qatar",
+        "href": "/qa/iphone/today"
+      },
+      {
+        "text": "Congo, Republic of",
+        "href": "/cg/iphone/today"
+      },
+      {
+        "text": "Rwanda",
+        "href": "/rw/iphone/today"
+      },
+      {
+        "text": "São Tomé and Príncipe",
+        "href": "/st/iphone/today"
+      },
+      {
+        "text": "Saudi Arabia",
+        "href": "/sa/iphone/today"
+      },
+      {
+        "text": "Senegal",
+        "href": "/sn/iphone/today"
+      },
+      {
+        "text": "Seychelles",
+        "href": "/sc/iphone/today"
+      },
+      {
+        "text": "Sierra Leone",
+        "href": "/sl/iphone/today"
+      },
+      {
+        "text": "South Africa",
+        "href": "/za/iphone/today"
+      },
+      {
+        "text": "Sri Lanka",
+        "href": "/lk/iphone/today"
+      },
+      {
+        "text": "Tajikistan",
+        "href": "/tj/iphone/today"
+      },
+      {
+        "text": "Tanzania, United Republic Of",
+        "href": "/tz/iphone/today"
+      },
+      {
+        "text": "Tunisia",
+        "href": "/tn/iphone/today"
+      },
+      {
+        "text": "Turkmenistan",
+        "href": "/tm/iphone/today"
+      },
+      {
+        "text": "United Arab Emirates",
+        "href": "/ae/iphone/today"
+      },
+      {
+        "text": "Uganda",
+        "href": "/ug/iphone/today"
+      },
+      {
+        "text": "Yemen",
+        "href": "/ye/iphone/today"
+      },
+      {
+        "text": "Zambia",
+        "href": "/zm/iphone/today"
+      },
+      {
+        "text": "Zimbabwe",
+        "href": "/zw/iphone/today"
+      },
+      {
+        "text": "Afghanistan",
+        "href": "/af/iphone/today"
+      },
+      {
+        "text": "Australia",
+        "href": "/au/iphone/today"
+      },
+      {
+        "text": "Bhutan",
+        "href": "/bt/iphone/today"
+      },
+      {
+        "text": "Brunei Darussalam",
+        "href": "/bn/iphone/today"
+      },
+      {
+        "text": "Cambodia",
+        "href": "/kh/iphone/today"
+      },
+      {
+        "text": "中国大陆",
+        "href": "/cn/iphone/today"
+      },
+      {
+        "text": "Fiji",
+        "href": "/fj/iphone/today"
+      },
+      {
+        "text": "香港",
+        "href": "/hk/iphone/today"
+      },
+      {
+        "text": "Indonesia (English)",
+        "href": "/id/iphone/today"
+      },
+      {
+        "text": "日本",
+        "href": "/jp/iphone/today"
+      },
+      {
+        "text": "Kazakhstan",
+        "href": "/kz/iphone/today"
+      },
+      {
+        "text": "대한민국",
+        "href": "/kr/iphone/today"
+      },
+      {
+        "text": "Kyrgyzstan",
+        "href": "/kg/iphone/today"
+      },
+      {
+        "text": "Lao People's Democratic Republic",
+        "href": "/la/iphone/today"
+      },
+      {
+        "text": "澳門",
+        "href": "/mo/iphone/today"
+      },
+      {
+        "text": "Malaysia (English)",
+        "href": "/my/iphone/today"
+      },
+      {
+        "text": "Maldives",
+        "href": "/mv/iphone/today"
+      },
+      {
+        "text": "Micronesia, Federated States of",
+        "href": "/fm/iphone/today"
+      },
+      {
+        "text": "Mongolia",
+        "href": "/mn/iphone/today"
+      },
+      {
+        "text": "Myanmar",
+        "href": "/mm/iphone/today"
+      },
+      {
+        "text": "Nauru",
+        "href": "/nr/iphone/today"
+      },
+      {
+        "text": "Nepal",
+        "href": "/np/iphone/today"
+      },
+      {
+        "text": "New Zealand",
+        "href": "/nz/iphone/today"
+      },
+      {
+        "text": "Pakistan",
+        "href": "/pk/iphone/today"
+      },
+      {
+        "text": "Palau",
+        "href": "/pw/iphone/today"
+      },
+      {
+        "text": "Papua New Guinea",
+        "href": "/pg/iphone/today"
+      },
+      {
+        "text": "Philippines",
+        "href": "/ph/iphone/today"
+      },
+      {
+        "text": "Singapore",
+        "href": "/sg/iphone/today"
+      },
+      {
+        "text": "Solomon Islands",
+        "href": "/sb/iphone/today"
+      },
+      {
+        "text": "台灣",
+        "href": "/tw/iphone/today"
+      },
+      {
+        "text": "Thailand",
+        "href": "/th/iphone/today"
+      },
+      {
+        "text": "Tonga",
+        "href": "/to/iphone/today"
+      },
+      {
+        "text": "Turkmenistan",
+        "href": "/tm/iphone/today"
+      },
+      {
+        "text": "Uzbekistan",
+        "href": "/uz/iphone/today"
+      },
+      {
+        "text": "Vanuatu",
+        "href": "/vu/iphone/today"
+      },
+      {
+        "text": "Vietnam",
+        "href": "/vn/iphone/today"
+      },
+      {
+        "text": "Albania",
+        "href": "/al/iphone/today"
+      },
+      {
+        "text": "Armenia",
+        "href": "/am/iphone/today"
+      },
+      {
+        "text": "Österreich",
+        "href": "/at/iphone/today"
+      },
+      {
+        "text": "Belarus",
+        "href": "/by/iphone/today"
+      },
+      {
+        "text": "Belgium",
+        "href": "/be/iphone/today"
+      },
+      {
+        "text": "Bosnia and Herzegovina",
+        "href": "/ba/iphone/today"
+      },
+      {
+        "text": "Bulgaria",
+        "href": "/bg/iphone/today"
+      },
+      {
+        "text": "Croatia",
+        "href": "/hr/iphone/today"
+      },
+      {
+        "text": "Cyprus",
+        "href": "/cy/iphone/today"
+      },
+      {
+        "text": "Czechia",
+        "href": "/cz/iphone/today"
+      },
+      {
+        "text": "Denmark",
+        "href": "/dk/iphone/today"
+      },
+      {
+        "text": "Estonia",
+        "href": "/ee/iphone/today"
+      },
+      {
+        "text": "Finland",
+        "href": "/fi/iphone/today"
+      },
+      {
+        "text": "France (Français)",
+        "href": "/fr/iphone/today"
+      },
+      {
+        "text": "Georgia",
+        "href": "/ge/iphone/today"
+      },
+      {
+        "text": "Deutschland",
+        "href": "/de/iphone/today"
+      },
+      {
+        "text": "Greece",
+        "href": "/gr/iphone/today"
+      },
+      {
+        "text": "Hungary",
+        "href": "/hu/iphone/today"
+      },
+      {
+        "text": "Iceland",
+        "href": "/is/iphone/today"
+      },
+      {
+        "text": "Ireland",
+        "href": "/ie/iphone/today"
+      },
+      {
+        "text": "Italia",
+        "href": "/it/iphone/today"
+      },
+      {
+        "text": "Kosovo",
+        "href": "/xk/iphone/today"
+      },
+      {
+        "text": "Latvia",
+        "href": "/lv/iphone/today"
+      },
+      {
+        "text": "Lithuania",
+        "href": "/lt/iphone/today"
+      },
+      {
+        "text": "Luxembourg (English)",
+        "href": "/lu/iphone/today"
+      },
+      {
+        "text": "Malta",
+        "href": "/mt/iphone/today"
+      },
+      {
+        "text": "Moldova, Republic Of",
+        "href": "/md/iphone/today"
+      },
+      {
+        "text": "Montenegro",
+        "href": "/me/iphone/today"
+      },
+      {
+        "text": "Nederland",
+        "href": "/nl/iphone/today"
+      },
+      {
+        "text": "North Macedonia",
+        "href": "/mk/iphone/today"
+      },
+      {
+        "text": "Norway",
+        "href": "/no/iphone/today"
+      },
+      {
+        "text": "Poland",
+        "href": "/pl/iphone/today"
+      },
+      {
+        "text": "Portugal (Português)",
+        "href": "/pt/iphone/today"
+      },
+      {
+        "text": "Romania",
+        "href": "/ro/iphone/today"
+      },
+      {
+        "text": "Россия",
+        "href": "/ru/iphone/today"
+      },
+      {
+        "text": "Serbia",
+        "href": "/rs/iphone/today"
+      },
+      {
+        "text": "Slovakia",
+        "href": "/sk/iphone/today"
+      },
+      {
+        "text": "Slovenia",
+        "href": "/si/iphone/today"
+      },
+      {
+        "text": "España",
+        "href": "/es/iphone/today"
+      },
+      {
+        "text": "Sverige",
+        "href": "/se/iphone/today"
+      },
+      {
+        "text": "Schweiz",
+        "href": "/ch/iphone/today"
+      },
+      {
+        "text": "Türkiye (English)",
+        "href": "/tr/iphone/today"
+      },
+      {
+        "text": "Ukraine",
+        "href": "/ua/iphone/today"
+      },
+      {
+        "text": "United Kingdom",
+        "href": "/gb/iphone/today"
+      },
+      {
+        "text": "Anguilla",
+        "href": "/ai/iphone/today"
+      },
+      {
+        "text": "Antigua and Barbuda",
+        "href": "/ag/iphone/today"
+      },
+      {
+        "text": "Argentina (Español)",
+        "href": "/ar/iphone/today"
+      },
+      {
+        "text": "Bahamas",
+        "href": "/bs/iphone/today"
+      },
+      {
+        "text": "Barbados",
+        "href": "/bb/iphone/today"
+      },
+      {
+        "text": "Belize",
+        "href": "/bz/iphone/today"
+      },
+      {
+        "text": "Bermuda",
+        "href": "/bm/iphone/today"
+      },
+      {
+        "text": "Bolivia (Español)",
+        "href": "/bo/iphone/today"
+      },
+      {
+        "text": "Brasil",
+        "href": "/br/iphone/today"
+      },
+      {
+        "text": "Virgin Islands, British",
+        "href": "/vg/iphone/today"
+      },
+      {
+        "text": "Cayman Islands",
+        "href": "/ky/iphone/today"
+      },
+      {
+        "text": "Chile (Español)",
+        "href": "/cl/iphone/today"
+      },
+      {
+        "text": "Colombia (Español)",
+        "href": "/co/iphone/today"
+      },
+      {
+        "text": "Costa Rica (Español)",
+        "href": "/cr/iphone/today"
+      },
+      {
+        "text": "Dominica",
+        "href": "/dm/iphone/today"
+      },
+      {
+        "text": "República Dominicana",
+        "href": "/do/iphone/today"
+      },
+      {
+        "text": "Ecuador (Español)",
+        "href": "/ec/iphone/today"
+      },
+      {
+        "text": "El Salvador (Español)",
+        "href": "/sv/iphone/today"
+      },
+      {
+        "text": "Grenada",
+        "href": "/gd/iphone/today"
+      },
+      {
+        "text": "Guatemala (Español)",
+        "href": "/gt/iphone/today"
+      },
+      {
+        "text": "Guyana",
+        "href": "/gy/iphone/today"
+      },
+      {
+        "text": "Honduras (Español)",
+        "href": "/hn/iphone/today"
+      },
+      {
+        "text": "Jamaica",
+        "href": "/jm/iphone/today"
+      },
+      {
+        "text": "México",
+        "href": "/mx/iphone/today"
+      },
+      {
+        "text": "Montserrat",
+        "href": "/ms/iphone/today"
+      },
+      {
+        "text": "Nicaragua (Español)",
+        "href": "/ni/iphone/today"
+      },
+      {
+        "text": "Panamá",
+        "href": "/pa/iphone/today"
+      },
+      {
+        "text": "Paraguay (Español)",
+        "href": "/py/iphone/today"
+      },
+      {
+        "text": "Perú",
+        "href": "/pe/iphone/today"
+      },
+      {
+        "text": "St. Kitts and Nevis",
+        "href": "/kn/iphone/today"
+      },
+      {
+        "text": "Saint Lucia",
+        "href": "/lc/iphone/today"
+      },
+      {
+        "text": "St. Vincent and The Grenadines",
+        "href": "/vc/iphone/today"
+      },
+      {
+        "text": "Suriname",
+        "href": "/sr/iphone/today"
+      },
+      {
+        "text": "Trinidad and Tobago",
+        "href": "/tt/iphone/today"
+      },
+      {
+        "text": "Turks and Caicos",
+        "href": "/tc/iphone/today"
+      },
+      {
+        "text": "Uruguay (English)",
+        "href": "/uy/iphone/today"
+      },
+      {
+        "text": "Venezuela (Español)",
+        "href": "/ve/iphone/today"
+      },
+      {
+        "text": "Canada (English)",
+        "href": "/ca/iphone/today"
+      },
+      {
+        "text": "Canada (Français)",
+        "href": "/ca/iphone/today?l=fr-CA"
+      },
+      {
+        "text": "United States",
+        "href": "/us/iphone/today"
+      },
+      {
+        "text": "Estados Unidos (Español México)",
+        "href": "/us/iphone/today?l=es-MX"
+      },
+      {
+        "text": "الولايات المتحدة",
+        "href": "/us/iphone/today?l=ar"
+      },
+      {
+        "text": "США",
+        "href": "/us/iphone/today?l=ru"
+      },
+      {
+        "text": "美国 (简体中文)",
+        "href": "/us/iphone/today?l=zh-Hans-CN"
+      },
+      {
+        "text": "États-Unis (Français France)",
+        "href": "/us/iphone/today?l=fr-FR"
+      },
+      {
+        "text": "미국",
+        "href": "/us/iphone/today?l=ko"
+      },
+      {
+        "text": "Estados Unidos (Português Brasil)",
+        "href": "/us/iphone/today?l=pt-BR"
+      },
+      {
+        "text": "Hoa Kỳ",
+        "href": "/us/iphone/today?l=vi"
+      },
+      {
+        "text": "美國 (繁體中文台灣)",
+        "href": "/us/iphone/today?l=zh-Hant-TW"
+      },
+      {
+        "text": "Apple Inc.",
+        "href": "https://www.apple.com"
+      },
+      {
+        "text": "Internet Service Terms",
+        "href": "https://www.apple.com/legal/internet-services/"
+      },
+      {
+        "text": "App Store & Privacy",
+        "href": "https://www.apple.com/legal/privacy/data/en/app-store/"
+      },
+      {
+        "text": "Cookie Warning",
+        "href": "https://www.apple.com/privacy/use-of-cookies/"
+      },
+      {
+        "text": "Support",
+        "href": "https://support.apple.com/billing"
+      }
+    ]
+  },
+  {
+    "id": "poki-popular",
+    "url": "https://poki.com/en/popular",
+    "retrieved_at": "2026-10-26T05:00:50.126562+00:00",
+    "status": 200,
+    "final_url": "https://poki.com/zh",
+    "raw_sha256": "434abbd785d3fc1f94d3eaa37f09706a7a50bb8ef3221af5e8575b1362a714ec",
+    "snapshot": "evidence/research/poki-popular.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "射击游戏",
+        "href": "/zh/射击"
+      },
+      {
+        "text": "双人游戏",
+        "href": "/zh/双人"
+      },
+      {
+        "text": "技巧游戏",
+        "href": "/zh/技巧"
+      },
+      {
+        "text": "动作游戏",
+        "href": "/zh/动作"
+      },
+      {
+        "text": "冒险游戏",
+        "href": "/zh/冒险"
+      },
+      {
+        "text": "汽车游戏",
+        "href": "/zh/汽车"
+      },
+      {
+        "text": "多人游戏",
+        "href": "/zh/多人"
+      },
+      {
+        "text": "益智游戏",
+        "href": "/zh/益智"
+      },
+      {
+        "text": "智力游戏",
+        "href": "/zh/智力"
+      },
+      {
+        "text": "体育游戏",
+        "href": "/zh/体育"
+      },
+      {
+        "text": "Cryzen.io",
+        "href": "/zh/g/cryzen-io"
+      },
+      {
+        "text": "Subway Surfers Blast",
+        "href": "/zh/g/subway-surfers-blast"
+      },
+      {
+        "text": "Blast Buddies",
+        "href": "/zh/g/blast-buddies"
+      },
+      {
+        "text": "Speed Stars",
+        "href": "/zh/g/speed-stars"
+      },
+      {
+        "text": "Stickman Battle",
+        "href": "/zh/g/stickman-battle"
+      },
+      {
+        "text": "Basketball Stars",
+        "href": "/zh/g/basketball-stars"
+      },
+      {
+        "text": "Drift Boss",
+        "href": "/zh/g/drift-boss"
+      },
+      {
+        "text": "Retro Bowl",
+        "href": "/zh/g/retro-bowl"
+      },
+      {
+        "text": "Stickman Hook",
+        "href": "/zh/g/stickman-hook"
+      },
+      {
+        "text": "Monkey Mart",
+        "href": "/zh/g/monkey-mart"
+      },
+      {
+        "text": "Blocky Blast Puzzle",
+        "href": "/zh/g/blocky-blast-puzzle"
+      },
+      {
+        "text": "Level Devil",
+        "href": "/zh/g/level-devil"
+      },
+      {
+        "text": "Level Devil",
+        "href": "/zh/g/level-devil"
+      },
+      {
+        "text": "Talking Tom Gold Run",
+        "href": "/zh/g/talking-tom-gold-run"
+      },
+      {
+        "text": "Cryzen.io",
+        "href": "/zh/g/cryzen-io"
+      },
+      {
+        "text": "Find The Needle in Haystack",
+        "href": "/zh/g/find-the-needle-in-haystack"
+      },
+      {
+        "text": "Speed Stars",
+        "href": "/zh/g/speed-stars"
+      },
+      {
+        "text": "Blockpost 2.0",
+        "href": "/zh/g/blockpost-2-0"
+      },
+      {
+        "text": "Stickman Battle",
+        "href": "/zh/g/stickman-battle"
+      },
+      {
+        "text": "Count Control Legends",
+        "href": "/zh/g/count-control-legends"
+      },
+      {
+        "text": "Blast Buddies",
+        "href": "/zh/g/blast-buddies"
+      },
+      {
+        "text": "Neon Challenge Legends",
+        "href": "/zh/g/neon-challenge-legends"
+      },
+      {
+        "text": "Murder",
+        "href": "/zh/g/murder"
+      },
+      {
+        "text": "Backrooms Recovery",
+        "href": "/zh/g/backrooms-recovery"
+      },
+      {
+        "text": "Temple Run 2",
+        "href": "/zh/g/temple-run-2"
+      },
+      {
+        "text": "Pool Club",
+        "href": "/zh/g/pool-club"
+      },
+      {
+        "text": "Kick The Buddy",
+        "href": "/zh/g/kick-the-buddy"
+      },
+      {
+        "text": "Slice Master",
+        "href": "/zh/g/slice-master"
+      },
+      {
+        "text": "Under the Red Sky",
+        "href": "/zh/g/under-the-red-sky"
+      },
+      {
+        "text": "Fear Response",
+        "href": "/zh/g/fear-response"
+      },
+      {
+        "text": "Battle Blast",
+        "href": "/zh/g/battle-blast"
+      },
+      {
+        "text": "Stickman Climb 3D",
+        "href": "/zh/g/stickman-climb-3d"
+      },
+      {
+        "text": "The Spear Stickman",
+        "href": "/zh/g/the-spear-stickman"
+      },
+      {
+        "text": "We Become What We Behold",
+        "href": "/zh/g/we-become-what-we-behold"
+      },
+      {
+        "text": "Tank Stars",
+        "href": "/zh/g/tank-stars"
+      },
+      {
+        "text": "Cat Pizza",
+        "href": "/zh/g/cat-pizza"
+      },
+      {
+        "text": "Blumgi Slime",
+        "href": "/zh/g/blumgi-slime"
+      },
+      {
+        "text": "Hill Climb Racing Lite",
+        "href": "/zh/g/hill-climb-racing-lite"
+      },
+      {
+        "text": "Blacktop Police Chase",
+        "href": "/zh/g/blacktop-police-chase"
+      },
+      {
+        "text": "Fruit Ninja",
+        "href": "/zh/g/fruit-ninja"
+      },
+      {
+        "text": "Scary Teacher 3D",
+        "href": "/zh/g/scary-teacher-3d"
+      },
+      {
+        "text": "Ragdoll Hit",
+        "href": "/zh/g/ragdoll-hit"
+      },
+      {
+        "text": "Fashion Legends",
+        "href": "/zh/g/fashion-legends"
+      },
+      {
+        "text": "Iron Snout",
+        "href": "/zh/g/iron-snout"
+      },
+      {
+        "text": "Rail in the Air",
+        "href": "/zh/g/rail-in-the-air"
+      },
+      {
+        "text": "Hole.io",
+        "href": "/zh/g/hole-io"
+      },
+      {
+        "text": "Plonky",
+        "href": "/zh/g/plonky"
+      },
+      {
+        "text": "Beauty Salon",
+        "href": "/zh/g/beauty-salon"
+      },
+      {
+        "text": "Tic Tac Toe Ultimate",
+        "href": "/zh/g/tic-tac-toe-ultimate"
+      },
+      {
+        "text": "Scary Teacher Hide & Seek Games",
+        "href": "/zh/g/scary-teacher-hide-seek-games"
+      },
+      {
+        "text": "Basketball REAL",
+        "href": "/zh/g/basketball-real"
+      },
+      {
+        "text": "Slime Laboratory",
+        "href": "/zh/g/slime-laboratory"
+      },
+      {
+        "text": "TNT Sandbox",
+        "href": "/zh/g/tnt-sandbox"
+      },
+      {
+        "text": "Power Badminton",
+        "href": "/zh/g/power-badminton"
+      },
+      {
+        "text": "Drive Mad",
+        "href": "/zh/g/drive-mad"
+      },
+      {
+        "text": "Chess Pro",
+        "href": "/zh/g/chess-pro"
+      },
+      {
+        "text": "Ping Pong Go!",
+        "href": "/zh/g/ping-pong-go"
+      },
+      {
+        "text": "Stickman Archero Fight",
+        "href": "/zh/g/stickman-archero-fight"
+      },
+      {
+        "text": "Tunnel Rush",
+        "href": "/zh/g/tunnel-rush"
+      },
+      {
+        "text": "Magic Battleground",
+        "href": "/zh/g/magic-battleground"
+      },
+      {
+        "text": "TicTacToe",
+        "href": "/zh/g/tictactoe"
+      },
+      {
+        "text": "Soccer REAL",
+        "href": "/zh/g/soccer-real"
+      },
+      {
+        "text": "Slime Keyboard Escape",
+        "href": "/zh/g/slime-keyboard-escape"
+      },
+      {
+        "text": "MineFun.io",
+        "href": "/zh/g/minefun-io"
+      },
+      {
+        "text": "Blockpost",
+        "href": "/zh/g/blockpost"
+      },
+      {
+        "text": "Vectaria.io",
+        "href": "/zh/g/vectaria-io"
+      },
+      {
+        "text": "Super Star Car",
+        "href": "/zh/g/super-star-car"
+      },
+      {
+        "text": "Plane Wars",
+        "href": "/zh/g/plane-wars"
+      },
+      {
+        "text": "Funny Shooter 2",
+        "href": "/zh/g/funny-shooter-2"
+      },
+      {
+        "text": "Blaze Drifter",
+        "href": "/zh/g/blaze-drifter"
+      },
+      {
+        "text": "Dino Simulator",
+        "href": "/zh/g/dino-simulator"
+      },
+      {
+        "text": "Huggy Wuggy Shooter",
+        "href": "/zh/g/huggy-wuggy-shooter"
+      },
+      {
+        "text": "Rainbow Obby",
+        "href": "/zh/g/rainbow-obby"
+      },
+      {
+        "text": "Backroom Bill",
+        "href": "/zh/g/backroom-bill"
+      },
+      {
+        "text": "Hide and Paint",
+        "href": "/zh/g/hide-and-paint"
+      },
+      {
+        "text": "Lethal Sniper 3D: Army Soldier",
+        "href": "/zh/g/lethal-sniper-3d-army-soldier"
+      },
+      {
+        "text": "Deadrise.io",
+        "href": "/zh/g/deadrise-io"
+      },
+      {
+        "text": "Tiger Tank 2",
+        "href": "/zh/g/tiger-tank-2"
+      },
+      {
+        "text": "Karate Fighter",
+        "href": "/zh/g/karate-fighter"
+      },
+      {
+        "text": "Theft City",
+        "href": "/zh/g/theft-city"
+      },
+      {
+        "text": "Basketball Stars",
+        "href": "/zh/g/basketball-stars"
+      },
+      {
+        "text": "PolyTrack",
+        "href": "/zh/g/polytrack"
+      },
+      {
+        "text": "Tower Destiny Survive",
+        "href": "/zh/g/tds-tower-destiny-survive"
+      },
+      {
+        "text": "Pilot Life",
+        "href": "/zh/g/pilot-life"
+      },
+      {
+        "text": "Tear Blocks Down",
+        "href": "/zh/g/tear-blocks-down"
+      },
+      {
+        "text": "Beardie Craft Survival",
+        "href": "/zh/g/beardie-craft-survival"
+      },
+      {
+        "text": "Car Machines",
+        "href": "/zh/g/car-machines"
+      },
+      {
+        "text": "Stick Rush",
+        "href": "/zh/g/stick-rush"
+      },
+      {
+        "text": "Fish Eat Fish",
+        "href": "/zh/g/fish-eat-fish"
+      },
+      {
+        "text": "Sea Catcher",
+        "href": "/zh/g/sea-catcher"
+      },
+      {
+        "text": "Idle Mining Empire",
+        "href": "/zh/g/idle-mining-empire"
+      },
+      {
+        "text": "Perfect Landing, Plane Pilot",
+        "href": "/zh/g/perfect-landing-plane-pilot"
+      },
+      {
+        "text": "Crazy Motorcycle Pro",
+        "href": "/zh/g/crazy-motorcycle-pro"
+      },
+      {
+        "text": "MR RACER - Car Racing",
+        "href": "/zh/g/mr-racer-car-racing"
+      },
+      {
+        "text": "NSR Street Car Racing",
+        "href": "/zh/g/nsr-street-car-racing"
+      },
+      {
+        "text": "SnapStyle Dress Up",
+        "href": "/zh/g/snapstyle-dress-up"
+      },
+      {
+        "text": "Poor Bunny",
+        "href": "/zh/g/poor-bunny"
+      },
+      {
+        "text": "Castle Defender Saga",
+        "href": "/zh/g/castle-defender-saga"
+      },
+      {
+        "text": "Dino Merge",
+        "href": "/zh/g/dino-merge"
+      },
+      {
+        "text": "Blumgi Paintball",
+        "href": "/zh/g/blumgi-paintball"
+      },
+      {
+        "text": "Disaster Arena",
+        "href": "/zh/g/disaster-arena"
+      },
+      {
+        "text": "Build League",
+        "href": "/zh/g/build-league"
+      },
+      {
+        "text": "Sword Road",
+        "href": "/zh/g/sword-road"
+      },
+      {
+        "text": "Super Dress",
+        "href": "/zh/g/super-dress"
+      },
+      {
+        "text": "Bacon Survivor",
+        "href": "/zh/g/bacon-survivor"
+      },
+      {
+        "text": "Cyber Cars Punk Racing",
+        "href": "/zh/g/cyber-cars-punk-racing"
+      },
+      {
+        "text": "Vortella's Dress Up",
+        "href": "/zh/g/vortellas-dress-up"
+      },
+      {
+        "text": "Gladihoppers",
+        "href": "/zh/g/gladihoppers"
+      },
+      {
+        "text": "City Car Driving: Stunt Master",
+        "href": "/zh/g/city-car-driving-stunt-master"
+      },
+      {
+        "text": "Stickman Maze Run",
+        "href": "/zh/g/stickman-maze-run"
+      },
+      {
+        "text": "Top Speed 3D",
+        "href": "/zh/g/top-speed-3d"
+      },
+      {
+        "text": "Eggsplosion",
+        "href": "/zh/g/eggsplosion"
+      },
+      {
+        "text": "Last Warriors",
+        "href": "/zh/g/last-warriors"
+      },
+      {
+        "text": "Hatch Your Pets",
+        "href": "/zh/g/hatch-your-pets"
+      },
+      {
+        "text": "Planet Destruction",
+        "href": "/zh/g/planet-destruction"
+      },
+      {
+        "text": "Ragdoll Bonk",
+        "href": "/zh/g/ragdoll-bonk"
+      },
+      {
+        "text": "Party Time",
+        "href": "/zh/g/party-time"
+      },
+      {
+        "text": "Stunt Protocol",
+        "href": "/zh/g/stunt-protocol-two-players"
+      },
+      {
+        "text": "Sprint League",
+        "href": "/zh/g/sprint-league"
+      },
+      {
+        "text": "Carnado Stunt Car",
+        "href": "/zh/g/carnado-stunt-car"
+      },
+      {
+        "text": "Anthill Wars",
+        "href": "/zh/g/anthill-wars"
+      },
+      {
+        "text": "Blumgi Bounce",
+        "href": "/zh/g/blumgi-bounce"
+      },
+      {
+        "text": "Lurkers.io",
+        "href": "/zh/g/lurkers-io"
+      },
+      {
+        "text": "Soccer Skills 2 World Cup",
+        "href": "/zh/g/soccer-skills-2-world-cup"
+      },
+      {
+        "text": "Supercars City",
+        "href": "/zh/g/supercars-city"
+      },
+      {
+        "text": "Vortex Racer",
+        "href": "/zh/g/vortex-racer"
+      },
+      {
+        "text": "Rally Point 5",
+        "href": "/zh/g/rally-point-5"
+      },
+      {
+        "text": "Diva Hair Salon",
+        "href": "/zh/g/diva-hair-salon"
+      },
+      {
+        "text": "Sword Legends",
+        "href": "/zh/g/sword-legends"
+      },
+      {
+        "text": "Sharkosaurus Rampage",
+        "href": "/zh/g/sharkosaurus-rampage"
+      },
+      {
+        "text": "Duck Merge",
+        "href": "/zh/g/duck-merge"
+      },
+      {
+        "text": "Sushi Party",
+        "href": "/zh/g/sushi-party-io"
+      },
+      {
+        "text": "Offroader V5",
+        "href": "/zh/g/offroader-v5"
+      },
+      {
+        "text": "Tower Merge",
+        "href": "/zh/g/tower-merge"
+      },
+      {
+        "text": "G-Switch 4",
+        "href": "/zh/g/g-switch-4"
+      },
+      {
+        "text": "G-Switch 3",
+        "href": "/zh/g/g-switch-3"
+      },
+      {
+        "text": "Bacon May Die",
+        "href": "/zh/g/bacon-may-die"
+      },
+      {
+        "text": "Aquapark.io",
+        "href": "/zh/g/aquaparkio"
+      },
+      {
+        "text": "Marble Run 3D",
+        "href": "/zh/g/marble-run-3d"
+      },
+      {
+        "text": "Tuning Car Racing",
+        "href": "/zh/g/tuning-car-racing"
+      },
+      {
+        "text": "Street Slickers",
+        "href": "/zh/g/street-slickers"
+      },
+      {
+        "text": "Digger Escape",
+        "href": "/zh/g/digger-escape"
+      },
+      {
+        "text": "Real Cars in City",
+        "href": "/zh/g/real-cars-in-city"
+      },
+      {
+        "text": "Tag",
+        "href": "/zh/g/tag"
+      },
+      {
+        "text": "Super Bike the Champion",
+        "href": "/zh/g/super-bike-the-champion"
+      },
+      {
+        "text": "Robo Cleaner Simulator",
+        "href": "/zh/g/robo-cleaner-simulator"
+      },
+      {
+        "text": "Monkey Tag IO",
+        "href": "/zh/g/monkey-tag-io"
+      },
+      {
+        "text": "Hammer 2: Reloaded",
+        "href": "/zh/g/hammer-2-reloaded"
+      },
+      {
+        "text": "Mad Cars Racing and Crash",
+        "href": "/zh/g/mad-cars-racing-and-crash"
+      },
+      {
+        "text": "Merge Blast",
+        "href": "/zh/g/merge-blast"
+      },
+      {
+        "text": "You Monster!",
+        "href": "/zh/g/you-monster"
+      },
+      {
+        "text": "King Rugni",
+        "href": "/zh/g/king-rugni"
+      },
+      {
+        "text": "Noob Archer 2",
+        "href": "/zh/g/noob-archer-2"
+      },
+      {
+        "text": "Penalty Shooters 2",
+        "href": "/zh/g/penalty-shooters-2"
+      },
+      {
+        "text": "Fight and Loot",
+        "href": "/zh/g/fight-and-loot"
+      },
+      {
+        "text": "Grand Prix Hero",
+        "href": "/zh/g/grand-prix-hero"
+      },
+      {
+        "text": "Ludo King",
+        "href": "/zh/g/ludo-king"
+      },
+      {
+        "text": "双人游戏",
+        "href": "/zh/双人"
+      },
+      {
+        "text": "射击游戏",
+        "href": "/zh/射击"
+      },
+      {
+        "text": "格斗游戏",
+        "href": "/zh/格斗"
+      },
+      {
+        "text": "冒险游戏",
+        "href": "/zh/冒险"
+      },
+      {
+        "text": "多人游戏",
+        "href": "/zh/多人"
+      },
+      {
+        "text": "汽车游戏",
+        "href": "/zh/汽车"
+      },
+      {
+        "text": "塔防游戏",
+        "href": "/zh/塔防"
+      },
+      {
+        "text": "Obby游戏",
+        "href": "/zh/obby"
+      },
+      {
+        "text": "点击游戏",
+        "href": "/zh/点击"
+      },
+      {
+        "text": "女生小游戏",
+        "href": "/zh/女生"
+      },
+      {
+        "text": "技巧游戏",
+        "href": "/zh/技巧"
+      },
+      {
+        "text": "3D游戏",
+        "href": "/zh/3d"
+      },
+      {
+        "text": "模拟游戏",
+        "href": "/zh/模拟"
+      },
+      {
+        "text": "战争游戏",
+        "href": "/zh/战争"
+      },
+      {
+        "text": "动作游戏",
+        "href": "/zh/动作"
+      },
+      {
+        "text": "平台游戏",
+        "href": "/zh/平台"
+      },
+      {
+        "text": "动物游戏",
+        "href": "/zh/动物"
+      },
+      {
+        "text": "街机游戏",
+        "href": "/zh/街机"
+      },
+      {
+        "text": "手机游戏",
+        "href": "/zh/手机"
+      },
+      {
+        "text": "生存游戏",
+        "href": "/zh/生存"
+      },
+      {
+        "text": "开车游戏",
+        "href": "/zh/开车"
+      },
+      {
+        "text": "火柴人游戏",
+        "href": "/zh/火柴人"
+      },
+      {
+        "text": "益智游戏",
+        "href": "/zh/益智"
+      },
+      {
+        "text": "智力游戏",
+        "href": "/zh/智力"
+      },
+      {
+        "text": "休闲游戏",
+        "href": "/zh/休闲"
+      },
+      {
+        "text": "恐龙游戏",
+        "href": "/zh/恐龙"
+      },
+      {
+        "text": "僵尸游戏",
+        "href": "/zh/僵尸"
+      },
+      {
+        "text": "密室逃脱游戏",
+        "href": "/zh/密室逃脱"
+      },
+      {
+        "text": "竞速游戏",
+        "href": "/zh/竞速"
+      },
+      {
+        "text": "坦克游戏",
+        "href": "/zh/坦克"
+      },
+      {
+        "text": "跑步游戏",
+        "href": "/zh/跑步"
+      },
+      {
+        "text": "狙击游戏",
+        "href": "/zh/狙击"
+      },
+      {
+        "text": "棋牌游戏",
+        "href": "/zh/棋牌"
+      },
+      {
+        "text": "飞机游戏",
+        "href": "/zh/飞机"
+      },
+      {
+        "text": "后室游戏",
+        "href": "/zh/backrooms"
+      },
+      {
+        "text": "万圣节游戏",
+        "href": "/zh/万圣节"
+      },
+      {
+        "text": "西瓜游戏",
+        "href": "/zh/西瓜"
+      },
+      {
+        "text": "策略游戏",
+        "href": "/zh/策略"
+      },
+      {
+        "text": "大亨游戏",
+        "href": "/zh/大亨"
+      },
+      {
+        "text": "所有分类",
+        "href": "/zh/类别"
+      },
+      {
+        "text": "Level Devil",
+        "href": "https://poki.com/zh/g/level-devil"
+      },
+      {
+        "text": "Smash Karts",
+        "href": "https://poki.com/zh/g/smash-karts"
+      },
+      {
+        "text": "Subway Surfers",
+        "href": "https://poki.com/zh/g/subway-surfers"
+      },
+      {
+        "text": "Blocky Blast Puzzle",
+        "href": "https://poki.com/zh/g/blocky-blast-puzzle"
+      },
+      {
+        "text": "Drive Mad",
+        "href": "https://poki.com/zh/g/drive-mad"
+      },
+      {
+        "text": "双人游戏",
+        "href": "https://poki.com/zh/双人"
+      },
+      {
+        "text": ".io 游戏",
+        "href": "https://poki.com/zh/io"
+      },
+      {
+        "text": "多人游戏",
+        "href": "https://poki.com/zh/多人"
+      },
+      {
+        "text": "赛车游戏",
+        "href": "https://poki.com/zh/汽车"
+      },
+      {
+        "text": "射击游戏",
+        "href": "https://poki.com/zh/射击"
+      },
+      {
+        "text": "体育游戏",
+        "href": "https://poki.com/zh/体育"
+      },
+      {
+        "text": "益智解谜游戏",
+        "href": "https://poki.com/zh/益智"
+      },
+      {
+        "text": "换装游戏",
+        "href": "https://poki.com/zh/dress-up"
+      },
+      {
+        "text": "绘画游戏",
+        "href": "https://poki.com/zh/绘画"
+      },
+      {
+        "text": "烹饪游戏",
+        "href": "https://poki.com/zh/做饭"
+      },
+      {
+        "text": "汽车游戏",
+        "href": "/zh/汽车"
+      },
+      {
+        "text": "双人游戏",
+        "href": "/zh/双人"
+      },
+      {
+        "text": "益智游戏",
+        "href": "/zh/益智"
+      },
+      {
+        "text": "所有游戏",
+        "href": "/zh/all-games"
+      },
+      {
+        "text": "常见问题解答",
+        "href": "/zh/c/faq"
+      },
+      {
+        "text": "联系",
+        "href": "/zh/c/contact"
+      },
+      {
+        "text": "隐私中心",
+        "href": "/zh/privacy"
+      },
+      {
+        "text": "关于我们",
+        "href": "https://about.poki.com"
+      },
+      {
+        "text": "Poki for Developers",
+        "href": "https://developers.poki.com"
+      },
+      {
+        "text": "Poki Kids",
+        "href": "https://kids.poki.com"
+      },
+      {
+        "text": "Blog",
+        "href": "https://poki.com/blog/"
+      },
+      {
+        "text": "加入我们",
+        "href": "https://poki.com/jobs"
+      }
+    ]
+  },
+  {
+    "id": "crazy-hot",
+    "url": "https://www.crazygames.com/hot",
+    "retrieved_at": "2026-10-26T05:00:50.163105+00:00",
+    "status": 200,
+    "final_url": "https://www.crazygames.com/hot",
+    "raw_sha256": "97bdf170c5992fa33986e24a211549bf1ae2e8a1faed6ba8bb575c092e40652b",
+    "snapshot": "evidence/research/crazy-hot.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://www.crazygames.com/"
+      },
+      {
+        "text": "New",
+        "href": "https://www.crazygames.com/new"
+      },
+      {
+        "text": "Updated",
+        "href": "https://www.crazygames.com/updated"
+      },
+      {
+        "text": "Originals",
+        "href": "https://www.crazygames.com/originals"
+      },
+      {
+        "text": "Multiplayer",
+        "href": "https://www.crazygames.com/multiplayer"
+      },
+      {
+        "text": "Leaderboards",
+        "href": "https://www.crazygames.com/leaderboards"
+      },
+      {
+        "text": "Action",
+        "href": "https://www.crazygames.com/c/action"
+      },
+      {
+        "text": "Adventure",
+        "href": "https://www.crazygames.com/c/adventure"
+      },
+      {
+        "text": "Arcade",
+        "href": "https://www.crazygames.com/c/arcade"
+      },
+      {
+        "text": "Board",
+        "href": "https://www.crazygames.com/c/board"
+      },
+      {
+        "text": "Card",
+        "href": "https://www.crazygames.com/c/card"
+      },
+      {
+        "text": "Clicker",
+        "href": "https://www.crazygames.com/c/clicker"
+      },
+      {
+        "text": "Driving",
+        "href": "https://www.crazygames.com/c/driving"
+      },
+      {
+        "text": ".io",
+        "href": "https://www.crazygames.com/c/io"
+      },
+      {
+        "text": "Puzzle",
+        "href": "https://www.crazygames.com/c/puzzle"
+      },
+      {
+        "text": "Shooting",
+        "href": "https://www.crazygames.com/c/shooting"
+      },
+      {
+        "text": "Simulation",
+        "href": "https://www.crazygames.com/c/sim"
+      },
+      {
+        "text": "Sports",
+        "href": "https://www.crazygames.com/c/sports"
+      },
+      {
+        "text": "Strategy",
+        "href": "https://www.crazygames.com/c/strategy"
+      },
+      {
+        "text": "Trivia",
+        "href": "https://www.crazygames.com/c/trivia"
+      },
+      {
+        "text": "Word",
+        "href": "https://www.crazygames.com/c/word"
+      },
+      {
+        "text": "Tags",
+        "href": "https://www.crazygames.com/tags"
+      },
+      {
+        "text": "About",
+        "href": "https://about.crazygames.com"
+      },
+      {
+        "text": "Developers",
+        "href": "https://developer.crazygames.com"
+      },
+      {
+        "text": "Kids site",
+        "href": "https://kids.crazygames.com"
+      },
+      {
+        "text": "Jobs",
+        "href": "https://crazygames.recruitee.com/"
+      },
+      {
+        "text": "Info for parents",
+        "href": "https://www.crazygames.com/information-for-parents"
+      },
+      {
+        "text": "Terms & conditions",
+        "href": "https://www.crazygames.com/terms-and-conditions"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.crazygames.com/privacy-policy"
+      },
+      {
+        "text": "All games",
+        "href": "https://www.crazygames.com/sitemap/games"
+      }
+    ]
+  },
+  {
+    "id": "itch-popular",
+    "url": "https://itch.io/games/platform-web/tag-puzzle",
+    "retrieved_at": "2026-10-26T05:00:50.533658+00:00",
+    "error": "HTTPSConnectionPool(host='itch.io', port=443): Max retries exceeded with url: /games/platform-web/tag-puzzle (Caused by NewConnectionError(\"HTTPSConnection(host='itch.io', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "id": "itch-rated",
+    "url": "https://itch.io/games/top-rated/platform-web/tag-puzzle",
+    "retrieved_at": "2026-10-26T05:00:50.609942+00:00",
+    "error": "HTTPSConnectionPool(host='itch.io', port=443): Max retries exceeded with url: /games/top-rated/platform-web/tag-puzzle (Caused by NewConnectionError(\"HTTPSConnection(host='itch.io', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+  },
+  {
+    "id": "taptap-h5-ad",
+    "url": "https://developer.taptap.cn/minigameapidoc/quick-start/mcp-guide/ad-integration-guide/",
+    "retrieved_at": "2026-10-26T05:00:50.624396+00:00",
+    "status": 200,
+    "final_url": "https://developer.taptap.cn/minigameapidoc/quick-start/mcp-guide/ad-integration-guide/",
+    "raw_sha256": "3377435ae7bcb984bc9a4c5feb3b09cf03009ef84ab47bbe8478043cff396cd0",
+    "snapshot": "evidence/research/taptap-h5-ad.txt",
+    "table_rows": [
+      [
+        "你说的话",
+        "AI 帮你做的事"
+      ],
+      [
+        "\"帮我加一个激励视频广告，看完给 100 金币\"",
+        "生成完整代码，教你放在哪个文件"
+      ],
+      [
+        "\"在主界面底部加个 Banner 广告\"",
+        "生成 Banner 代码，设好位置"
+      ],
+      [
+        "\"关卡切换的时候弹个广告\"",
+        "生成插屏广告代码"
+      ],
+      [
+        "\"广告不显示怎么办？\"",
+        "帮你排查问题"
+      ],
+      [
+        "类型",
+        "什么效果",
+        "推荐用在哪",
+        "收入"
+      ],
+      [
+        "激励视频",
+        "玩家主动看视频，看完给奖励",
+        "复活、双倍金币、免费抽奖",
+        "最高"
+      ],
+      [
+        "插屏",
+        "游戏间隙自动弹出",
+        "关卡切换、暂停恢复",
+        "中等"
+      ],
+      [
+        "Banner",
+        "屏幕边上的横幅条",
+        "主界面、设置页",
+        "较低"
+      ],
+      [
+        "项目",
+        "说明"
+      ],
+      [
+        "收入更新",
+        "每月 10 号 更新上月广告收益"
+      ],
+      [
+        "最低提现",
+        "100 元"
+      ],
+      [
+        "到账时间",
+        "申请提现后预计 7 个工作日 到账"
+      ],
+      [
+        "税务处理",
+        "个税预扣预缴，以年度汇算为准"
+      ],
+      [
+        "要做的",
+        "别做的"
+      ],
+      [
+        "激励视频让玩家 自己点",
+        "自动弹激励视频"
+      ],
+      [
+        "插屏广告间隔 ≥ 2 分钟",
+        "5 秒弹一次"
+      ],
+      [
+        "广告加载失败就 跳过",
+        "加载失败就卡住游戏"
+      ],
+      [
+        "看完视频才给奖励",
+        "没看完也给奖励"
+      ]
+    ],
+    "links": [
+      {
+        "text": "文档首页",
+        "href": "https://developer.taptap.cn/docs/"
+      },
+      {
+        "text": "游戏商店",
+        "href": "https://developer.taptap.cn/docs/store/"
+      },
+      {
+        "text": "游戏服务",
+        "href": "https://developer.taptap.cn/docs/sdk/"
+      },
+      {
+        "text": "#",
+        "href": "#广告接入指南"
+      },
+      {
+        "text": "Dirichlet 广告联盟 (opens new window)",
+        "href": "https://ssp.dirichlet.cn/"
+      },
+      {
+        "text": "#",
+        "href": "#全流程概览"
+      },
+      {
+        "text": "#",
+        "href": "#第一步-怎么开通"
+      },
+      {
+        "text": "TapTap 开发者中心 (opens new window)",
+        "href": "https://developer.taptap.cn/"
+      },
+      {
+        "text": "#",
+        "href": "#第二步-怎么接入"
+      },
+      {
+        "text": "#",
+        "href": "#三种广告怎么选"
+      },
+      {
+        "text": "#",
+        "href": "#第三步-怎么收钱"
+      },
+      {
+        "text": "#",
+        "href": "#结算规则"
+      },
+      {
+        "text": "#",
+        "href": "#提现流程"
+      },
+      {
+        "text": "#",
+        "href": "#注意事项"
+      },
+      {
+        "text": "#",
+        "href": "#有疑问"
+      },
+      {
+        "text": "上一页 «\n          MCP安装指南",
+        "href": "/minigameapidoc/quick-start/mcp-guide/mcp-setup/"
+      },
+      {
+        "text": "下一页 开发概览\n          »",
+        "href": "/minigameapidoc/dev/tutorial/overview/"
+      }
+    ]
+  },
+  {
+    "id": "block-official",
+    "url": "https://www.blockblast.com/",
+    "retrieved_at": "2026-10-26T05:00:51.003489+00:00",
+    "status": 200,
+    "final_url": "https://www.blockblast.com/",
+    "raw_sha256": "bc516b8c7801f2ab78bbec06af8973e62413f7f1d329bd6cc76c044c3f2ade53",
+    "snapshot": "evidence/research/block-official.txt",
+    "table_rows": [],
+    "links": [
+      {
+        "text": "Block Blast!",
+        "href": "/"
+      },
+      {
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "text": "News",
+        "href": "/news"
+      },
+      {
+        "text": "About Us",
+        "href": "/about-us"
+      },
+      {
+        "text": "Download on the App Store",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "Get it on Google Play",
+        "href": "https://play.google.com/store/apps/details?id=com.block.juggle"
+      },
+      {
+        "text": "Block Blast!",
+        "href": "/"
+      },
+      {
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "text": "News",
+        "href": "/news"
+      },
+      {
+        "text": "About Us",
+        "href": "/about-us"
+      },
+      {
+        "text": "iOS Download",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "Android Download",
+        "href": "https://play.google.com/store/apps/details?id=com.block.juggle"
+      },
+      {
+        "text": "Get it on Google Play",
+        "href": "https://play.google.com/store/apps/details?id=com.block.juggle"
+      },
+      {
+        "text": "Download on the App Store",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "View All News",
+        "href": "/news"
+      },
+      {
+        "text": "Read Story",
+        "href": "/news/12"
+      },
+      {
+        "text": "Read Story",
+        "href": "/news/11"
+      },
+      {
+        "text": "Read Story",
+        "href": "/news/10"
+      },
+      {
+        "text": "Block Blast!",
+        "href": "/"
+      },
+      {
+        "text": "Get it on Google Play",
+        "href": "https://play.google.com/store/apps/details?id=com.block.juggle"
+      },
+      {
+        "text": "Download on the App Store",
+        "href": "https://apps.apple.com/us/app/block-blast/id1617391485"
+      },
+      {
+        "text": "Terms of Service",
+        "href": "https://www.hungrystudio.com/serviceus.html"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://www.hungrystudio.com/privacyus.html"
+      },
+      {
+        "text": "block-blast-support@hungrystudio.com",
+        "href": "mailto:block-blast-support@hungrystudio.com"
+      },
+      {
+        "text": "Hungry Studio",
+        "href": "https://www.hungrystudio.com"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "game": "blocky-blast-puzzle",
+    "url": "https://poki.com/en/g/blocky-blast-puzzle",
+    "video": "https://v.poki-cdn.com/2d80a3e1-88f3-43f9-8929-59e697789a01/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xb27024000] Error in the pull function.\n[tls @ 0xb27024000] IO error: Connection reset by peer\n[in#0 @ 0xb26c64000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "watermelon-drop",
+    "url": "https://poki.com/en/g/watermelon-drop",
+    "video": "https://v.poki-cdn.com/c5ec3309-255a-480c-bfe0-f7762d9ec496/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xaaac08480] Error in the pull function.\n[tls @ 0xaaac08480] IO error: Connection reset by peer\n[in#0 @ 0xaaac40000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "drift-boss",
+    "url": "https://poki.com/en/g/drift-boss",
+    "video": "https://v.poki-cdn.com/23341d09-58ad-47af-a34e-cd03d1541ba5/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xc7303c000] Error in the pull function.\n[tls @ 0xc7303c000] IO error: Connection reset by peer\n[in#0 @ 0xc72c44000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "stickman-hook",
+    "url": "https://poki.com/en/g/stickman-hook",
+    "video": "https://v.poki-cdn.com/c5bfe826-608c-4fa4-8ab2-82c07fe27c0d/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0x787068000] Error in the pull function.\n[tls @ 0x787068000] IO error: Connection reset by peer\n[in#0 @ 0x786c20000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "level-devil",
+    "url": "https://poki.com/en/g/level-devil",
+    "video": "https://v.poki-cdn.com/4362faa3-b5e4-42e7-ab0d-fbe42ceb0120/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xb9ec08480] Error in the pull function.\n[tls @ 0xb9ec08480] IO error: Connection reset by peer\n[in#0 @ 0xb9ec60000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "monkey-mart",
+    "url": "https://poki.com/en/g/monkey-mart",
+    "video": "https://v.poki-cdn.com/56e350ba-5361-4734-9b20-140b9242b08b/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0x8f2c6c000] Error in the pull function.\n[tls @ 0x8f2c6c000] IO error: Connection reset by peer\n[in#0 @ 0x8f2c64000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "aquaparkio",
+    "url": "https://poki.com/en/g/aquaparkio",
+    "video": "https://v.poki-cdn.com/87db28eb-db50-46db-9bef-0b49601ee15d/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xc5ac08480] Error in the pull function.\n[tls @ 0xc5ac08480] IO error: Connection reset by peer\n[in#0 @ 0xc5ac44000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "master-chess",
+    "url": "https://poki.com/en/g/master-chess",
+    "video": "https://v.poki-cdn.com/0a9f852d-bdeb-436c-9d28-3fdf8c835e88/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xbdb044000] Error in the pull function.\n[tls @ 0xbdb044000] IO error: Connection reset by peer\n[in#0 @ 0xbdac44000] Error opening input: Connection reset by peer\nError opening input file https"
+  },
+  {
+    "game": "woody-sort",
+    "url": "https://poki.com/en/g/woody-sort",
+    "video": "https://v.poki-cdn.com/d2ccd49e-2dad-4c39-8adf-469329515ca5/thumbnail.3x3.h264.mp4",
+    "returncode": 202,
+    "decode_notes": "[tls @ 0xa27040000] Error in the pull function.\n[tls @ 0xa27040000] IO error: Connection reset by peer\n[in#0 @ 0xa26c40000] Error opening input: Connection reset by peer\nError opening input file https"
+  }
+]

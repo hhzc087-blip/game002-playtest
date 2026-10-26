@@ -1,0 +1,28 @@
+{
+  "url": "https://hhzc087-blip.github.io/game002-playtest/",
+  "checks": [
+    {
+      "game": "home",
+      "title": "GAME 002 · 玩过再决定",
+      "state": null
+    },
+    {
+      "game": "blocks",
+      "title": "GAME 002 · 玩过再决定",
+      "state": "playing"
+    },
+    {
+      "game": "sort",
+      "title": "GAME 002 · 玩过再决定",
+      "state": "playing"
+    },
+    {
+      "game": "tower",
+      "title": "GAME 002 · 玩过再决定",
+      "state": "playing"
+    }
+  ],
+  "errors": [],
+  "badResponses": [],
+  "status": "PASS"
+}

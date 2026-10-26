@@ -1,0 +1,6 @@
+PASS sort: inversion and undo restore the exact initial colors
+PASS sort: 10 complete wins via actual tap inputs
+PASS all games fit 360/390/430 phone widths and desktop without horizontal overflow
+PASS retry restores seed; mode switch changes inversion allowance
+PASS blocked/corrupted localStorage never prevents startup
+{"passed":true,"checks":5,"rounds":10,"errors":0}
