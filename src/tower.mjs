@@ -1,4 +1,4 @@
-const M=globalThis.Matter??(await import('../third_party/matter.cjs')).default;
+const M=globalThis.Matter??(await import('../third_party/matter.js')).default;
 const {Engine,Bodies,Body,Composite,Events}=M;
 export {M as Matter};
 export const CANNON={x:200,y:80};
