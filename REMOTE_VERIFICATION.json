@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "verified_at": "2026-10-26T05:44:44.202059+00:00",
+  "public_repository": "https://github.com/hhzc087-blip/game002-playtest",
+  "private_repository": "https://github.com/hhzc087-blip/game002-market-playlab",
+  "public_release": "https://github.com/hhzc087-blip/game002-playtest/releases/tag/PUBLISH_HANDOFF_GAME002_20261026_R1",
+  "bundle_sha256": "bc7a88dea3e49a0d30b3f235b5506a35f6a415d73d2f4fa21210754ea2a5a084",
+  "download_bytes": 2852467,
+  "zip_crc": "PASS",
+  "exact_members": "PASS",
+  "member_count": 112,
+  "all_payload_member_sha256": "PASS",
+  "archive_latest_download_identical": true,
+  "private_work_commit": "007a21699fa76f8d014e85eb712364d6eff3001c",
+  "public_preview_commit": "b877d98b51dc5df1f3141077d71305e4db6cd231",
+  "human_acceptance": "PENDING",
+  "tapTap_publication": false,
+  "final_runtime": {
+    "created_at": "2026-10-26T05:44:03.239Z",
+    "scope": "Final public preview, MIT-ported sorting core and Human review page.",
+    "remote_sort_move": {
+      "before": 0,
+      "after": 1
+    },
+    "review_title": "GAME 002 · Human review",
+    "images": [
+      {
+        "src": "https://hhzc087-blip.github.io/game002-playtest/handoff/latest/output/playwright/blocks-390.png",
+        "loaded": true
+      },
+      {
+        "src": "https://hhzc087-blip.github.io/game002-playtest/handoff/latest/output/playwright/sort-390.png",
+        "loaded": true
+      },
+      {
+        "src": "https://hhzc087-blip.github.io/game002-playtest/handoff/latest/output/playwright/tower-390.png",
+        "loaded": true
+      }
+    ],
+    "errors": [],
+    "status": "PASS"
+  }
+}
